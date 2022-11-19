@@ -8,15 +8,15 @@ export const AuthContextProvider = ({ children }) => {
 
     const createUser = (email, password) => {
         return createUserWithEmailAndPassword(auth, email, password)
-    }
+    };
 
     return (
         <UserContext.Provider value={{createUser}}>
             {children}
         </UserContext.Provider>
-    )
+    );
 }
 
-export const UserAuth = () => {
-    return UseContext(UserContext);
-};
+export default UserAuth = () => {
+    return UserContext(UserContext);
+}
