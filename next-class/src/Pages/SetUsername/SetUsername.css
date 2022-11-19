@@ -6,7 +6,7 @@
     outline: none;
 }
 
-.signup-wrapper {
+.login-wrapper {
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -32,7 +32,7 @@
     height: 60px;
     border: 2px solid #000;
     border-radius: 25px;
-    margin: 30px 0;
+    margin: 20px 0;
     opacity: 0.5;
     transition: 200ms;
     font-weight: 600;
@@ -56,7 +56,7 @@
     background: none;
     box-sizing: border-box;
     font-size: 18px;
-    padding-left: 20px;
+    
 }
 
 .input-bar > box-icon {
@@ -75,7 +75,7 @@
     font-size: 12px;
 }
 
-#btn1 {
+#btn {
     width: 350px;
     border: none;
     padding: 15px;
@@ -84,16 +84,7 @@
     font-size: 24px;
     border-radius: 30px;
     cursor: pointer;
-}
-#btn2 {
-    width: 150px;
-    border: none;
-    padding: 10px;
-    color: #fff;
-    background-color: #227929;
-    font-size: 20px;
-    border-radius: 30px;
-    cursor: pointer;
+    margin-top: 1rem;
 }
 
 
