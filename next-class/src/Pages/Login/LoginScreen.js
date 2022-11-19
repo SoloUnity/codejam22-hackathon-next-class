@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const LoginScreen = () => {
   return (
     <div id="content">
-        <h1>Welcome!</h1>
+        <h1>Welcome to Next-Class!</h1>
         <form action="" method="get">
             <div class="input-bar">
                 <label for="name">username</label>
@@ -20,7 +20,9 @@ const LoginScreen = () => {
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>
-        <button type="submit" id="btn"><Link to='/home'>Login</Link></button>
+        <button type="submit" id="btn"><Link className='link_button' to='/home'>Login</Link></button>
+        <h5>Don't have an account?</h5>
+        <button type="submit" id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
     </div>
   )
 }
@@ -32,7 +34,7 @@ function inputFocus() {
 }
 
 function inputBlur() {
-    if(this.value === '' || this.value === null){
+    if(this.value == '' || this.value === null){
         this.parentNode.classList.remove('focus');
     }
 }
