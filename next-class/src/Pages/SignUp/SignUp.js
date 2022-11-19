@@ -21,6 +21,8 @@ function Login() {
         setDoc(doc(db, "users", email), {
             email: email,
             username: username,
+            friends: [],
+            classes: [],
         });
     }
     
