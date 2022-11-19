@@ -17,6 +17,7 @@ function Login() {
 
 
 return (
+    <div className='login-wrapper'>
     <div id="content">
         <h1>Welcome to Next-Class!</h1>
         <form>
@@ -34,6 +35,7 @@ return (
         <button onClick={signIn} id="btn"><Link className='link_button' to='/'>Login</Link></button>
         <h5>Don't have an account?</h5>
         <button id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
+    </div>
     </div>
   )
 };
