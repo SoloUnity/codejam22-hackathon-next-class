@@ -5,19 +5,12 @@ import {auth} from '../../firebase';
 import {Link} from 'react-router-dom';
 import {signInWithEmailAndPassword, createUserWithEmailAndPassword} from 'firebase/auth';
 
-<<<<<<< HEAD
-const LoginScreen = () => {
-    const [email, setEmail] = useState('');
-    const [password, setPassword] = useState('');
-    const [error, setError] = useState('');
-=======
 function Login() {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
->>>>>>> 6d016f5 (Setup firebase)
 
     const signIn = () =>{
-        signInWithEmailAndPassword(auth, email, password)
+        signInWithEmailAndPassword (auth, email, password)
         .then(auth=>console.log(auth))
         .catch(error=>console.error(error))
     }
