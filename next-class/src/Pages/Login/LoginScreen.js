@@ -21,6 +21,8 @@ const LoginScreen = () => {
             </div>
         </form>
         <button type="submit" id="btn"><Link className='link_button' to='/home'>Login</Link></button>
+        <h5>Don't have an account?</h5>
+        <button type="submit" id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
     </div>
   )
 }
@@ -32,7 +34,7 @@ function inputFocus() {
 }
 
 function inputBlur() {
-    if(this.value === '' || this.value === null){
+    if(this.value == '' || this.value === null){
         this.parentNode.classList.remove('focus');
     }
 }
