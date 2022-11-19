@@ -11,27 +11,7 @@ const firebaseConfig = {
   measurementId: "G-SYQ9EFJDT0"
 };
 
-
-//document.addEventListener("DOMContentLoaded", event => {
-//  const app = firebase.app();
-//  console.log(app)
-//})
-
-//function googleLogin() {
-//  const provider = new firebase.auth.GoogleAuthProvider();
-
-//  firebase.auth().signInWithPopup(provider)
-
-//          .then(result => {
-//             const user = result.user;
-//              document.write(`Hello ${user.displayName}`);
-//              console.log(user)
-//          })
-//          .catch (console.log)
-//
-//}
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-export default app;
-export const auth = getAuth();
+const auth = getAuth(app);
+export {auth};

@@ -1,17 +1,15 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { Home, LoginScreen, SignUp } from './Pages/index';
-import { AuthContextProvider } from './context/AuthContext';
+import { Home, Login, SignUp } from './Pages/index';
 
 function App() {
   return (
-    <AuthContextProvider>
       <Router>
         <div className="App">
           <div className='Content'>
             <Switch>
               <Route exact path='/'>
-                <LoginScreen/>
+                <Login/>
               </Route>
               <Route exact path='/home'>
                 <Home/>
@@ -23,7 +21,7 @@ function App() {
           </div>
         </div>
       </Router>
-    </AuthContextProvider>
+
   );
 }
 
