@@ -1,22 +1,39 @@
 import './LoginScreen.css';
-
-
+import { useState } from 'react';
 import React from 'react'
 import { Link } from 'react-router-dom';
+import {UserAuth} from '../context/AuthContext';
 
 const LoginScreen = () => {
+    const [email, setEmail] = React.useState('');
+    const [password, setPassword] = React.useState('');
+    const [error, setError] = React.useState('');
+
+    const {createUser} = UserAuth();
+
+    const handleSubmit = async (e)  => {
+        e.preventDefault();
+        setError('');
+        try {
+            await createUser(email, password);
+        } catch (e) {
+            setError(e.message);
+            console.log(e.message);
+        }
+    }
+
   return (
     <div id="content">
         <h1>Welcome to Next-Class!</h1>
-        <form action="" method="get">
+        <form onSubmit={handleSubmit} action="" method="get">
             <div class="input-bar">
-                <label for="name">username</label>
-                <input type="text" id="name" class="input"/>
+                <label for="Email">Email Adress</label>
+                <input  onChange={(e) => setEmail(e.target.value)} type="text" id="Email" class="input"/>
                 <box-icon name='user'></box-icon>
             </div>
             <div class="input-bar">
                 <label for="password">password</label>
-                <input type="password" id="password" class="input"/>
+                <input onChange={(e) => setPassword(e.target.value)} type="password" id="password" class="input"/>
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>
