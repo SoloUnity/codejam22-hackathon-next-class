@@ -4,6 +4,9 @@ import React from 'react'
 import {auth} from '../../firebase';
 import {Link} from 'react-router-dom';
 import {createUserWithEmailAndPassword} from 'firebase/auth';
+import {getFirestore, doc, setDoc} from 'firebase/firestore';
+
+const db = getFirestore();
 
 function Login() {
     const [email, setEmail] = useState('');
@@ -13,8 +16,12 @@ function Login() {
         createUserWithEmailAndPassword(auth, email, password)
         .then(auth=>console.log(auth))
         .catch(error=>console.error(error))
-    }
 
+        setDoc(doc(db, "users", email), {
+            email: email,
+        });
+    }
+    
 return (
     <div id="content">
         <h1>Register to Next-Class</h1>
