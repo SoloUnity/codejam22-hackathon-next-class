@@ -1,8 +1,8 @@
-import { NavBar } from './components/index';
+import './Home.css';
 
 const Home = () => {
   return (
-    <div><NavBar/>
+    <div>
     <div className="home-wrapper">  
       <div className="home-content">
         <div className="home-text">
