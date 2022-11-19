@@ -3,7 +3,7 @@ import { useState } from 'react';
 import React from 'react'
 import {auth} from '../../firebase';
 import {Link} from 'react-router-dom';
-import {signInWithEmailAndPassword, createUserWithEmailAndPassword} from 'firebase/auth';
+import {signInWithEmailAndPassword} from 'firebase/auth';
 
 function Login() {
     const [email, setEmail] = useState('');
@@ -15,11 +15,6 @@ function Login() {
         .catch(error=>console.error(error))
     }
 
-    const register = () =>{
-        createUserWithEmailAndPassword(auth, email, password)
-        .then(auth=>console.log(auth))
-        .catch(error=>console.error(error))
-    }
 
 return (
     <div id="content">
@@ -38,7 +33,7 @@ return (
         </form>
         <button onClick={signIn} id="btn"><Link className='link_button' to='/'>Login</Link></button>
         <h5>Don't have an account?</h5>
-        <button onClick={register} id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
+        <button id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
     </div>
   )
 };
