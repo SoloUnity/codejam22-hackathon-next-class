@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { Home, Login, SignUp, Setusername } from './Pages/index';
+import { Home, Login, SignUp } from './Pages/index';
 
 function App() {
   return (
@@ -16,9 +16,6 @@ function App() {
               </Route>
               <Route exact path='/signup'>
                 <SignUp/>
-              </Route>
-              <Route exact path='/setusername'>
-                <Setusername/>
               </Route>
             </Switch>
           </div>
