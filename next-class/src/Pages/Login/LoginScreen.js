@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom';
 import {UserAuth} from '../context/AuthContext';
 
 const LoginScreen = () => {
-    const [email, setEmail] = React.useState('');
-    const [password, setPassword] = React.useState('');
-    const [error, setError] = React.useState('');
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
+    const [error, setError] = useState('');
 
     const {createUser} = UserAuth();
 
