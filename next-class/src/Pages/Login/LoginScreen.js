@@ -47,7 +47,7 @@ function inputFocus() {
 }
 
 function inputBlur() {
-    if(this.value == '' || this.value === null){
+    if(this.value === '' || this.value === null){
         this.parentNode.classList.remove('focus');
     }
 }
