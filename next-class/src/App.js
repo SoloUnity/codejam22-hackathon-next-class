@@ -9,7 +9,7 @@ function App() {
       <div className="App">
         <div className='Content'>
           <Switch>
-            <Route extact path='/'>
+            <Route exact path='/'>
               <LoginScreen/>
             </Route>
             <Route path='/home'>
