@@ -32,7 +32,7 @@ return (
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>
-        <button onClick={signIn} id="btn"><Link className='link_button' to='/'>Login</Link></button>
+        <button onClick={signIn} id="btn"><Link className='link_button' to='/home'>Login</Link></button>
         <h5>Don't have an account?</h5>
         <button id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
     </div>
