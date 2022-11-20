@@ -29,7 +29,7 @@ function Login() {
 return (
     <div className='signup-wrapper'>
     <div id="content">
-        <h1>Register to Next-Class</h1>
+        <h1 class='welcome-text'>Register to Next-Class</h1>
         <form>
         <div class="input-bar">
                 <label for="username">Username</label>

@@ -13,6 +13,7 @@
     justify-content: center;
     align-items: center;
     font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(235, 236, 240);
 }
 
 #content {
@@ -20,6 +21,7 @@
     padding: 50px;
     box-shadow: 0 11px 17px 5px rgb(0 0 0 / 33%);
     border-radius: 50px;
+    background-color: #a6e7ff63;
 }
 
 #content > h1 {
@@ -44,6 +46,11 @@
     font-weight: 600;
     position: relative;
 }
+
+.welcome-text{
+    color:rgb(12, 64, 93)
+}
+
 
 .input-bar > label {
     position: absolute;
@@ -86,11 +93,12 @@
     border: none;
     padding: 15px;
     color: #fff;
-    background-color: #227929;
+    background-color: rgba(250, 253, 255, 0.453);
     font-size: 24px;
     border-radius: 30px;
     cursor: pointer;
     margin-top: 1rem;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 }
 
 
@@ -99,4 +107,11 @@
     color: #000000;
     font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
+}
+
+#btn:hover {
+    background-color: #ffffff;
+    box-shadow: 0px 15px 20px rgba(141, 141, 141, 0.4);
+    color: rgb(255, 255, 255);
+    transform: translateY(-1px);
 }

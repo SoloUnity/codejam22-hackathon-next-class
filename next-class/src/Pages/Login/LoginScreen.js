@@ -19,7 +19,7 @@ function Login() {
 return (
     <div className='login-wrapper'>
     <div id="content">
-        <h1>Welcome to Next-Class!</h1>
+        <h1 className='welcome-text'>Welcome to Next-Class!</h1>
         <form>
             <div class="input-bar">
                 <label for="Email">Email Adress</label>
