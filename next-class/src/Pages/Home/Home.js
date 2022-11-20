@@ -14,36 +14,11 @@ const db = getFirestore();
 
 const events = [
   {
-    id: 1,
-    title: 'event 1',
-    start: '12:00:00',
-    end: '14:00:00',
+    title: 'Class 1',
+    start: '2021-10-01T09:00:00',
+    end: '2021-10-01T10:00:00',
     daysOfWeek: [1, 2, 3, 4, 5],
-  },
-  {
-    id: 2,
-    title: 'event 2',
-    start: '2021-06-16T13:00:00',
-    end: '2021-06-16T18:00:00',
-  },
-  {
-    id: 3,
-    title: 'event 2',
-    start: '2021-06-16T13:00:00',
-    end: '2021-06-16T18:00:00',
-  },
-  {
-    id: 4,
-    title: 'event 2',
-    start: '2021-06-16T13:00:00',
-    end: '2021-06-16T18:00:00',
-  },
-  {
-    id: 5,
-    title: 'event 2',
-    start: '2021-06-16T13:00:00',
-    end: '2021-06-16T18:00:00',
-  },
+  }
 ];
 
 const Home = () => {
@@ -92,12 +67,20 @@ const Home = () => {
     let timeStart = today_classes[i][0]['timeslot'][today_classes[i][1]]['startTime'];
     let endTime = today_classes[i][0]['timeslot'][today_classes[i][1]]['endTime'];
     let days = []
-    for (let j = 0; j < today_classes[i][0]['timeslot'].length; i++){
-      days.append(today_classes[i][0]['timeslot'][j]['day']);
-    }}
+    for (let j = 0; j < today_classes[i][0]['timeslot'].length; j++){
+      days.push(today_classes[i][0]['timeslot'][j]['day']-1);
     
   }
-  
+  console.log(days);
+  events.push({
+    title: courseName,
+    start: '2021-10-01T' + timeStart+":00",
+    end: '2021-10-01T' + endTime+":00",
+    daysOfWeek: days,
+});
+console.log(events);
+
+}
       }
     }
       } else {
