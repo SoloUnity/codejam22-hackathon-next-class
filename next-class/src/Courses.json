@@ -1,0 +1,8538 @@
+{
+    "MATH-111": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Bibby, Sean",
+        "cartID": "3092",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "RPHYS 114",
+        "key": "3092",
+        "waitlist": false
+      }
+    },
+    "MATH-123": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Martine La Boissoniere, Gabriel",
+        "cartID": "3093",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "BRONF 151",
+        "key": "3093",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "3094",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "12:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "3094",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "3095",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "3095",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "3096",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "3096",
+        "waitlist": false
+      }
+    },
+    "MATH-133": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Duchesne, Gabriel William",
+        "cartID": "3097",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "SADB M-1",
+        "key": "3097",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "3098",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "WONG 1020",
+        "key": "3098",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "3099",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ARTS 150",
+        "key": "3099",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "3100",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMD 279",
+        "key": "3100",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Tut",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "3101",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "WONG 1020",
+        "key": "3101",
+        "waitlist": false
+      }
+    },
+    "MATH-140": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Collins-Woodfin, Elizabeth",
+        "cartID": "3102",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "3102",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "3103",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "3103",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "8"
+        ],
+        "teacher": "",
+        "cartID": "3104",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMD 279",
+        "key": "3104",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "3105",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "LEA 109",
+        "key": "3105",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Tut",
+        "time_IDs": [
+          "16"
+        ],
+        "teacher": "",
+        "cartID": "3106",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "RPHYS 115",
+        "key": "3106",
+        "waitlist": false
+      }
+    },
+    "MATH-141": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Trudeau, Sidney",
+        "cartID": "3107",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "3107",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "3110",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "16:05",
+            "endTime": "17:55"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "3110",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "3111",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:05",
+            "endTime": "17:55"
+          }
+        ],
+        "location": "BURN 1205",
+        "key": "3111",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "3112",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "BURN 1104",
+        "key": "3112",
+        "waitlist": false
+      },
+      "023": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "3129",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "MCMED 1027",
+        "key": "3129",
+        "waitlist": false
+      },
+      "007": {
+        "type": "Tut",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "3113",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "RPHYS 114",
+        "key": "3113",
+        "waitlist": false
+      },
+      "008": {
+        "type": "Tut",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "3114",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "LEA 110",
+        "key": "3114",
+        "waitlist": false
+      },
+      "011": {
+        "type": "Tut",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "3117",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "RPHYS 118",
+        "key": "3117",
+        "waitlist": false
+      },
+      "009": {
+        "type": "Tut",
+        "time_IDs": [
+          "18"
+        ],
+        "teacher": "",
+        "cartID": "3115",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "RPHYS 118",
+        "key": "3115",
+        "waitlist": false
+      },
+      "010": {
+        "type": "Tut",
+        "time_IDs": [
+          "21"
+        ],
+        "teacher": "",
+        "cartID": "3116",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 1080",
+        "key": "3116",
+        "waitlist": false
+      },
+      "015": {
+        "type": "Tut",
+        "time_IDs": [
+          "21"
+        ],
+        "teacher": "",
+        "cartID": "3121",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "3121",
+        "waitlist": false
+      },
+      "012": {
+        "type": "Tut",
+        "time_IDs": [
+          "24"
+        ],
+        "teacher": "",
+        "cartID": "3118",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGMD 276",
+        "key": "3118",
+        "waitlist": false
+      },
+      "013": {
+        "type": "Tut",
+        "time_IDs": [
+          "27"
+        ],
+        "teacher": "",
+        "cartID": "3119",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "STBIO S3/4",
+        "key": "3119",
+        "waitlist": false
+      },
+      "014": {
+        "type": "Tut",
+        "time_IDs": [
+          "27"
+        ],
+        "teacher": "",
+        "cartID": "3120",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGMD 276",
+        "key": "3120",
+        "waitlist": false
+      },
+      "016": {
+        "type": "Tut",
+        "time_IDs": [
+          "30"
+        ],
+        "teacher": "",
+        "cartID": "3122",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "MCMED 1027",
+        "key": "3122",
+        "waitlist": false
+      },
+      "017": {
+        "type": "Tut",
+        "time_IDs": [
+          "33"
+        ],
+        "teacher": "",
+        "cartID": "3123",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "EDUC 624",
+        "key": "3123",
+        "waitlist": false
+      },
+      "018": {
+        "type": "Tut",
+        "time_IDs": [
+          "36"
+        ],
+        "teacher": "",
+        "cartID": "3124",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "3124",
+        "waitlist": false
+      },
+      "019": {
+        "type": "Tut",
+        "time_IDs": [
+          "39"
+        ],
+        "teacher": "",
+        "cartID": "3125",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "BURN 1214",
+        "key": "3125",
+        "waitlist": false
+      },
+      "020": {
+        "type": "Tut",
+        "time_IDs": [
+          "42"
+        ],
+        "teacher": "",
+        "cartID": "3126",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "LEA 15",
+        "key": "3126",
+        "waitlist": false
+      },
+      "021": {
+        "type": "Tut",
+        "time_IDs": [
+          "45"
+        ],
+        "teacher": "",
+        "cartID": "3127",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "3127",
+        "waitlist": false
+      },
+      "022": {
+        "type": "Tut",
+        "time_IDs": [
+          "48"
+        ],
+        "teacher": "",
+        "cartID": "3128",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "BIRKS 205",
+        "key": "3128",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "49",
+          "50",
+          "51"
+        ],
+        "teacher": "Barill, Gavin; Trudeau, Sidney",
+        "cartID": "3108",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 4,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 6,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "3108",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lec",
+        "time_IDs": [
+          "113",
+          "114",
+          "115"
+        ],
+        "teacher": "Mazakian, Hovsep; Trudeau, Sidney",
+        "cartID": "3109",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "MCMED 522",
+        "key": "3109",
+        "waitlist": false
+      }
+    },
+    "MATH-151": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Roth, Charles",
+        "cartID": "3130",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "BIRKS 205",
+        "key": "3130",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "3131",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "STBIO S3/3",
+        "key": "3131",
+        "waitlist": false
+      }
+    },
+    "MATH-203": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Nadarajah, Tharshanna",
+        "cartID": "3132",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "3132",
+        "waitlist": false
+      }
+    },
+    "MATH-204": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Correa, Jose Andres",
+        "cartID": "3135",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGMC 204",
+        "key": "3135",
+        "waitlist": false
+      }
+    },
+    "MATH-222": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Trudeau, Sidney",
+        "cartID": "3137",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "SADB M-1",
+        "key": "3137",
+        "waitlist": true
+      }
+    },
+    "MATH-223": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Macdonald, Jeremy",
+        "cartID": "3140",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "3140",
+        "waitlist": true
+      }
+    },
+    "MATH-236": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Sroka, Marcin",
+        "cartID": "3143",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "3143",
+        "waitlist": false
+      }
+    },
+    "MATH-240": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Fortier, J\u00e9r\u00f4me; Macdonald, Jeremy",
+        "cartID": "3145",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 204",
+        "key": "3145",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "3",
+          "4"
+        ],
+        "teacher": "Macdonald, Jeremy",
+        "cartID": "3146",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 5,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "3146",
+        "waitlist": false
+      }
+    },
+    "MATH-243": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Hundemer, Axel W",
+        "cartID": "3151",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "RPHYS 112",
+        "key": "3151",
+        "waitlist": false
+      }
+    },
+    "MATH-247": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Jakobson, Dmitry",
+        "cartID": "3153",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "STBIO S3/3",
+        "key": "3153",
+        "waitlist": false
+      }
+    },
+    "MATH-249": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Guan, Pengfei",
+        "cartID": "3154",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "3154",
+        "waitlist": false
+      }
+    },
+    "MATH-251": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Pichot, Michael",
+        "cartID": "3155",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "3155",
+        "waitlist": false
+      }
+    },
+    "MATH-255": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Choksi, Rustum",
+        "cartID": "3156",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MAASS 10",
+        "key": "3156",
+        "waitlist": false
+      }
+    },
+    "MATH-262": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Roth, Charles",
+        "cartID": "3158",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 4,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 6,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "3158",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "3159",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "3159",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "8"
+        ],
+        "teacher": "",
+        "cartID": "3160",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "RPHYS 114",
+        "key": "3160",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "3161",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "3161",
+        "waitlist": false
+      }
+    },
+    "MATH-263": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "",
+        "cartID": "3162",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "3162",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "3164",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "3164",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "3165",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMD 279",
+        "key": "3165",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "3166",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "3166",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Tut",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "3167",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "12:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "3167",
+        "waitlist": false
+      },
+      "007": {
+        "type": "Tut",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "3168",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "3168",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "16",
+          "17"
+        ],
+        "teacher": "Humphries, Tony",
+        "cartID": "3163",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "LEA 26",
+        "key": "3163",
+        "waitlist": false
+      }
+    },
+    "MATH-264": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Fortier, J\u00e9r\u00f4me",
+        "cartID": "3169",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "3169",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "3170",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "3170",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "3171",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "3171",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "3172",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "RPHYS 118",
+        "key": "3172",
+        "waitlist": false
+      }
+    },
+    "MATH-308": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Alam, Shomoita",
+        "cartID": "3173",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "3173",
+        "waitlist": true
+      }
+    },
+    "MATH-314": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Fortier, J\u00e9r\u00f4me",
+        "cartID": "3174",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "RPHYS 112",
+        "key": "3174",
+        "waitlist": true
+      }
+    },
+    "MATH-315": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "B\u00e9langer-Rioux, Rosalie",
+        "cartID": "3175",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 4,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 6,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "3175",
+        "waitlist": false
+      }
+    },
+    "MATH-319": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "B\u00e9langer-Rioux, Rosalie",
+        "cartID": "3177",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "3177",
+        "waitlist": false
+      }
+    },
+    "MATH-323": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Asgharian, Masoud",
+        "cartID": "3178",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "MDHAR G-10",
+        "key": "3178",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "3",
+          "4"
+        ],
+        "teacher": "Sajjad, Alia",
+        "cartID": "3179",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "MDHAR G-10",
+        "key": "3179",
+        "waitlist": false
+      }
+    },
+    "MATH-324": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Nadarajah, Tharshanna",
+        "cartID": "3182",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "3182",
+        "waitlist": false
+      }
+    },
+    "MATH-325": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Humphries, Tony",
+        "cartID": "3185",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ARTS W-120",
+        "key": "3185",
+        "waitlist": false
+      }
+    },
+    "MATH-327": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Panayotov, Ivo",
+        "cartID": "3186",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "17:35",
+            "endTime": "18:55"
+          },
+          {
+            "day": 3,
+            "startTime": "17:35",
+            "endTime": "18:55"
+          }
+        ],
+        "location": "BURN 306",
+        "key": "3186",
+        "waitlist": false
+      }
+    },
+    "MATH-329": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Kelome, Djivede",
+        "cartID": "3187",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 4,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 6,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "3187",
+        "waitlist": false
+      }
+    },
+    "MATH-340": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Norin, Sergey",
+        "cartID": "3188",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "LEA 26",
+        "key": "3188",
+        "waitlist": true
+      }
+    },
+    "MATH-346": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Love, Jonathan",
+        "cartID": "3190",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "BIRKS 111",
+        "key": "3190",
+        "waitlist": false
+      }
+    },
+    "MATH-357": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Khalili Mahmoudabadi, Abbas",
+        "cartID": "3191",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MCMED 1034",
+        "key": "3191",
+        "waitlist": false
+      }
+    },
+    "MATH-358": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Guan, Pengfei",
+        "cartID": "3192",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "RPHYS 114",
+        "key": "3192",
+        "waitlist": false
+      }
+    },
+    "MATH-377": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Love, Jonathan",
+        "cartID": "3193",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "BIRKS 111",
+        "key": "3193",
+        "waitlist": false
+      }
+    },
+    "MATH-397": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Panayotov, Ivo",
+        "cartID": "3194",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "17:35",
+            "endTime": "18:55"
+          },
+          {
+            "day": 3,
+            "startTime": "17:35",
+            "endTime": "18:55"
+          }
+        ],
+        "location": "BURN 306",
+        "key": "3194",
+        "waitlist": false
+      }
+    },
+    "MATH-410": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kelome, Djivede",
+        "cartID": "6636",
+        "timeslot": [],
+        "location": "",
+        "key": "6636",
+        "waitlist": false
+      }
+    },
+    "MATH-420": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kamran, Niky",
+        "cartID": "6638",
+        "timeslot": [],
+        "location": "",
+        "key": "6638",
+        "waitlist": false
+      }
+    },
+    "MATH-437": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Khadra, Anmar",
+        "cartID": "3195",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "MCMED 1027",
+        "key": "3195",
+        "waitlist": false
+      }
+    },
+    "MATH-447": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Addario-Berry, Louigi Dana",
+        "cartID": "3196",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMC 204",
+        "key": "3196",
+        "waitlist": false
+      }
+    },
+    "MATH-455": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Jaksic, Vojkan",
+        "cartID": "3198",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ARTS 260",
+        "key": "3198",
+        "waitlist": false
+      }
+    },
+    "MATH-457": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Allen, Patrick",
+        "cartID": "3199",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ARTS W-20",
+        "key": "3199",
+        "waitlist": false
+      }
+    },
+    "MATH-458": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Kamran, Niky",
+        "cartID": "3200",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "EDUC 624",
+        "key": "3200",
+        "waitlist": false
+      }
+    },
+    "MATH-463": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Paquette, Courtney",
+        "cartID": "3201",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "LEA 14",
+        "key": "3201",
+        "waitlist": false
+      }
+    },
+    "MATH-470": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kelome, Djivede",
+        "cartID": "6637",
+        "timeslot": [],
+        "location": "",
+        "key": "6637",
+        "waitlist": false
+      }
+    },
+    "MATH-478": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Nave, Jean-Christophe",
+        "cartID": "3202",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "BURN 1205",
+        "key": "3202",
+        "waitlist": false
+      }
+    },
+    "MATH-480": {
+      "002": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kamran, Niky",
+        "cartID": "6639",
+        "timeslot": [],
+        "location": "",
+        "key": "6639",
+        "waitlist": false
+      }
+    },
+    "MATH-488": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Sabok, Marcin",
+        "cartID": "3203",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "3203",
+        "waitlist": false
+      }
+    },
+    "MATH-518": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Pym, Brent",
+        "cartID": "7557",
+        "timeslot": [],
+        "location": "",
+        "key": "7557",
+        "waitlist": false
+      }
+    },
+    "MATH-523": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Neslehova, Johanna",
+        "cartID": "3204",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "LEA 232",
+        "key": "3204",
+        "waitlist": false
+      }
+    },
+    "MATH-525": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Yang, Archer Yi",
+        "cartID": "3205",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "ARTS W-120",
+        "key": "3205",
+        "waitlist": true
+      }
+    },
+    "MATH-537": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Khadra, Anmar",
+        "cartID": "3206",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "MCMED 1027",
+        "key": "3206",
+        "waitlist": false
+      }
+    },
+    "MATH-547": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Paquette, Elliot",
+        "cartID": "3208",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "BURN 1104",
+        "key": "3208",
+        "waitlist": false
+      }
+    },
+    "MATH-553": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Vetta, Adrian Roshan",
+        "cartID": "3209",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "3209",
+        "waitlist": false
+      }
+    },
+    "MATH-557": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Asgharian, Masoud",
+        "cartID": "3210",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "BURN 1214",
+        "key": "3210",
+        "waitlist": false
+      }
+    },
+    "MATH-558": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Sajjad, Alia",
+        "cartID": "3211",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "BURN 1104",
+        "key": "3211",
+        "waitlist": false
+      }
+    },
+    "MATH-562": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Oberman, Adam",
+        "cartID": "3213",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "LEA 14",
+        "key": "3213",
+        "waitlist": false
+      }
+    },
+    "MATH-563": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Paquette, Courtney",
+        "cartID": "3214",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "LEA 14",
+        "key": "3214",
+        "waitlist": false
+      }
+    },
+    "MATH-565": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Jakobson, Dmitry",
+        "cartID": "3215",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "BURN 920",
+        "key": "3215",
+        "waitlist": false
+      }
+    },
+    "MATH-571": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Goren, Eyal Z",
+        "cartID": "3216",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 4,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          },
+          {
+            "day": 6,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "BURN 920",
+        "key": "3216",
+        "waitlist": false
+      }
+    },
+    "MATH-577": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Pym, Brent",
+        "cartID": "3217",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "BURN 920",
+        "key": "3217",
+        "waitlist": false
+      }
+    },
+    "MATH-581": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Lin, Jessica",
+        "cartID": "3219",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "BURN 708; BURN 1205",
+        "key": "3219",
+        "waitlist": false
+      }
+    },
+    "MATH-582": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Przytycki, Piotr",
+        "cartID": "3220",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "BURN 1205",
+        "key": "3220",
+        "waitlist": false
+      }
+    },
+    "MATH-589": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Chen, Linan",
+        "cartID": "3221",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "BURN 1205",
+        "key": "3221",
+        "waitlist": false
+      }
+    },
+    "MATH-590": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Sabok, Marcin",
+        "cartID": "3222",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "3222",
+        "waitlist": false
+      }
+    },
+    "MATH-594": {
+      "001": {
+        "type": "Top Crse",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "Vetta, Adrian Roshan",
+        "cartID": "7559",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "BURN 1234",
+        "key": "7559",
+        "waitlist": false
+      }
+    },
+    "MATH-596": {
+      "001": {
+        "type": "Top Crse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Wise, Daniel",
+        "cartID": "6631",
+        "timeslot": [],
+        "location": "",
+        "key": "6631",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Top Crse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kamnitzer, Joel",
+        "cartID": "7241",
+        "timeslot": [],
+        "location": "",
+        "key": "7241",
+        "waitlist": false
+      }
+    },
+    "MATH-598": {
+      "001": {
+        "type": "Top Crse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Yang, Archer Yi",
+        "cartID": "6632",
+        "timeslot": [],
+        "location": "",
+        "key": "6632",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Top Crse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Steele, Russell",
+        "cartID": "6633",
+        "timeslot": [],
+        "location": "",
+        "key": "6633",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Top Crse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kolaczyk, Eric",
+        "cartID": "6635",
+        "timeslot": [],
+        "location": "",
+        "key": "6635",
+        "waitlist": false
+      }
+    },
+    "MATH-600": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Vetois, Jerome",
+        "cartID": "3223",
+        "timeslot": [],
+        "location": "",
+        "key": "3223",
+        "waitlist": false
+      }
+    },
+    "MATH-601": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Vetois, Jerome",
+        "cartID": "3224",
+        "timeslot": [],
+        "location": "",
+        "key": "3224",
+        "waitlist": false
+      }
+    },
+    "MATH-602": {
+      "001": {
+        "type": "Res Crse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Vetois, Jerome",
+        "cartID": "3225",
+        "timeslot": [],
+        "location": "",
+        "key": "3225",
+        "waitlist": false
+      }
+    },
+    "MATH-604": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Vetois, Jerome",
+        "cartID": "3226",
+        "timeslot": [],
+        "location": "",
+        "key": "3226",
+        "waitlist": false
+      }
+    },
+    "MATH-605": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Vetois, Jerome",
+        "cartID": "3227",
+        "timeslot": [],
+        "location": "",
+        "key": "3227",
+        "waitlist": false
+      }
+    },
+    "MATH-700": {
+      "001": {
+        "type": "Comp Ex",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Choksi, Rustum",
+        "cartID": "3228",
+        "timeslot": [],
+        "location": "",
+        "key": "3228",
+        "waitlist": false
+      }
+    },
+    "MATH-701": {
+      "001": {
+        "type": "Comp Ex",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Choksi, Rustum",
+        "cartID": "3229",
+        "timeslot": [],
+        "location": "",
+        "key": "3229",
+        "waitlist": false
+      }
+    },
+    "MATH-720": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Allen, Patrick",
+        "cartID": "6646",
+        "timeslot": [],
+        "location": "",
+        "key": "6646",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kamnitzer, Joel",
+        "cartID": "7242",
+        "timeslot": [],
+        "location": "",
+        "key": "7242",
+        "waitlist": false
+      }
+    },
+    "MATH-758": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "Vetta, Adrian Roshan",
+        "cartID": "7560",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "BURN 1234",
+        "key": "7560",
+        "waitlist": false
+      }
+    },
+    "MATH-782": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Kolaczyk, Eric",
+        "cartID": "7524",
+        "timeslot": [],
+        "location": "",
+        "key": "7524",
+        "waitlist": false
+      }
+    },
+    "COMP-202": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "M'hiri, Faten",
+        "cartID": "1855",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          },
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          },
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "1855",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "4",
+          "5",
+          "6"
+        ],
+        "teacher": "M'hiri, Faten",
+        "cartID": "1856",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "1856",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Opt Tut",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "1857",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "RPHYS 115",
+        "key": "1857",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Opt Tut",
+        "time_IDs": [
+          "8"
+        ],
+        "teacher": "",
+        "cartID": "1858",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ADAMS 211",
+        "key": "1858",
+        "waitlist": false
+      }
+    },
+    "COMP-204": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Becerra, David",
+        "cartID": "1859",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "1859",
+        "waitlist": false
+      }
+    },
+    "COMP-206": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Errington, Jacob; Vybihal, Joseph P",
+        "cartID": "1860",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "BRONF 151; MCMED 522",
+        "key": "1860",
+        "waitlist": true
+      }
+    },
+    "COMP-208": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "",
+        "cartID": "1865",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "1865",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "3",
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "1866",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMC 204",
+        "key": "1866",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Opt Tut",
+        "time_IDs": [
+          "5"
+        ],
+        "teacher": "",
+        "cartID": "1867",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "1867",
+        "waitlist": false
+      }
+    },
+    "COMP-250": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Alberini, Giulia",
+        "cartID": "1868",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          },
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          },
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "LEA 132",
+        "key": "1868",
+        "waitlist": false
+      }
+    },
+    "COMP-251": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Becerra, David",
+        "cartID": "1869",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "LEA 132",
+        "key": "1869",
+        "waitlist": false
+      }
+    },
+    "COMP-252": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Devroye, Luc P",
+        "cartID": "1870",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "ENGMC 13",
+        "key": "1870",
+        "waitlist": false
+      }
+    },
+    "COMP-273": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Kry, Paul",
+        "cartID": "1871",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 5,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ADAMS AUD; BURN 306",
+        "key": "1871",
+        "waitlist": true
+      }
+    },
+    "COMP-302": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Errington, Jacob",
+        "cartID": "1872",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "17:35",
+            "endTime": "18:55"
+          },
+          {
+            "day": 4,
+            "startTime": "17:35",
+            "endTime": "18:55"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "1872",
+        "waitlist": true
+      }
+    },
+    "COMP-303": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Guo, Jin",
+        "cartID": "1873",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "STBIO S1/4",
+        "key": "1873",
+        "waitlist": true
+      }
+    },
+    "COMP-308": {
+      "001": {
+        "type": "Lab",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "Vybihal, Joseph P",
+        "cartID": "1874",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "1874",
+        "waitlist": true
+      }
+    },
+    "COMP-310": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Balmau, Oana",
+        "cartID": "1875",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MCMED 522",
+        "key": "1875",
+        "waitlist": false
+      }
+    },
+    "COMP-322": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "",
+        "cartID": "1876",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "LEA 132",
+        "key": "1876",
+        "waitlist": false
+      }
+    },
+    "COMP-330": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Crepeau, Claude",
+        "cartID": "1877",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ADAMS AUD",
+        "key": "1877",
+        "waitlist": false
+      }
+    },
+    "COMP-345": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "O'Donnell, Tim; Reddy, Siva",
+        "cartID": "1878",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "SADB 2/36",
+        "key": "1878",
+        "waitlist": false
+      }
+    },
+    "COMP-360": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Hatami, Hamed",
+        "cartID": "1879",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "1879",
+        "waitlist": true
+      }
+    },
+    "COMP-361": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Schiedermeier, Maximilian",
+        "cartID": "5062",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 5,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "STBIO S3/3",
+        "key": "5062",
+        "waitlist": false
+      }
+    },
+    "COMP-362": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Vetta, Adrian Roshan",
+        "cartID": "1880",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "RPHYS 112",
+        "key": "1880",
+        "waitlist": false
+      }
+    },
+    "COMP-396": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Errington, Jacob",
+        "cartID": "6894",
+        "timeslot": [],
+        "location": "",
+        "key": "6894",
+        "waitlist": false
+      }
+    },
+    "COMP-400": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Errington, Jacob",
+        "cartID": "1881",
+        "timeslot": [],
+        "location": "",
+        "key": "1881",
+        "waitlist": false
+      }
+    },
+    "COMP-401": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Blanchette, Mathieu",
+        "cartID": "1882",
+        "timeslot": [],
+        "location": "",
+        "key": "1882",
+        "waitlist": false
+      }
+    },
+    "COMP-421": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Kemme, Bettina",
+        "cartID": "1883",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "MCMED 522",
+        "key": "1883",
+        "waitlist": true
+      }
+    },
+    "COMP-445": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Hoover, Jacob",
+        "cartID": "1884",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "LEA 26",
+        "key": "1884",
+        "waitlist": false
+      }
+    },
+    "COMP-480": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "6895",
+        "timeslot": [],
+        "location": "",
+        "key": "6895",
+        "waitlist": false
+      }
+    },
+    "COMP-520": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Dubach, Christophe",
+        "cartID": "1885",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 1080",
+        "key": "1885",
+        "waitlist": true
+      }
+    },
+    "COMP-527": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Pientka, Brigitte",
+        "cartID": "1886",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "1886",
+        "waitlist": false
+      }
+    },
+    "COMP-535": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Liu, Xue",
+        "cartID": "7001",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "MAASS 10",
+        "key": "7001",
+        "waitlist": true
+      }
+    },
+    "COMP-540": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Chang, Xiao-Wen",
+        "cartID": "1888",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 103",
+        "key": "1888",
+        "waitlist": true
+      }
+    },
+    "COMP-551": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Rabbany, Reihaneh",
+        "cartID": "1889",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "STBIO S1/4",
+        "key": "1889",
+        "waitlist": true
+      }
+    },
+    "COMP-553": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Vetta, Adrian Roshan",
+        "cartID": "6890",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "6890",
+        "waitlist": false
+      }
+    },
+    "COMP-555": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Robillard, Martin",
+        "cartID": "1890",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ADAMS 211",
+        "key": "1890",
+        "waitlist": true
+      }
+    },
+    "COMP-559": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Kry, Paul",
+        "cartID": "1891",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "1891",
+        "waitlist": true
+      }
+    },
+    "COMP-562": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Oberman, Adam",
+        "cartID": "6891",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "LEA 14",
+        "key": "6891",
+        "waitlist": false
+      }
+    },
+    "COMP-565": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Li, Yue",
+        "cartID": "1892",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 6,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "1892",
+        "waitlist": false
+      }
+    },
+    "COMP-579": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Precup, Doina",
+        "cartID": "1893",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "LEA 219",
+        "key": "1893",
+        "waitlist": true
+      }
+    },
+    "COMP-588": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Ravanbakhsh, Siamak",
+        "cartID": "1894",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "1894",
+        "waitlist": true
+      }
+    },
+    "COMP-596": {
+      "001": {
+        "type": "Top Crse",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Waldispuhl, J\u00e9r\u00f4me",
+        "cartID": "6896",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "6896",
+        "waitlist": false
+      }
+    },
+    "COMP-598": {
+      "002": {
+        "type": "Top Crse",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Maheswaran, Muthucumaru",
+        "cartID": "1895",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "1895",
+        "waitlist": true
+      }
+    },
+    "COMP-603": {
+      "001": {
+        "type": "Top Crse",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "Kry, Paul; Meger, David",
+        "cartID": "1897",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "ENGMC 13",
+        "key": "1897",
+        "waitlist": false
+      }
+    },
+    "COMP-604": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "",
+        "cartID": "7558",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "16:05",
+            "endTime": "16:55"
+          }
+        ],
+        "location": "ENGMC 103",
+        "key": "7558",
+        "waitlist": false
+      }
+    },
+    "COMP-691": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1898",
+        "timeslot": [],
+        "location": "",
+        "key": "1898",
+        "waitlist": false
+      }
+    },
+    "COMP-693": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1899",
+        "timeslot": [],
+        "location": "",
+        "key": "1899",
+        "waitlist": false
+      }
+    },
+    "COMP-694": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1900",
+        "timeslot": [],
+        "location": "",
+        "key": "1900",
+        "waitlist": false
+      }
+    },
+    "COMP-695": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1901",
+        "timeslot": [],
+        "location": "",
+        "key": "1901",
+        "waitlist": false
+      }
+    },
+    "COMP-696": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1902",
+        "timeslot": [],
+        "location": "",
+        "key": "1902",
+        "waitlist": false
+      }
+    },
+    "COMP-697": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1903",
+        "timeslot": [],
+        "location": "",
+        "key": "1903",
+        "waitlist": false
+      }
+    },
+    "COMP-698": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1904",
+        "timeslot": [],
+        "location": "",
+        "key": "1904",
+        "waitlist": false
+      }
+    },
+    "COMP-699": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1905",
+        "timeslot": [],
+        "location": "",
+        "key": "1905",
+        "waitlist": false
+      }
+    },
+    "COMP-700": {
+      "001": {
+        "type": "Comp Ex",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1906",
+        "timeslot": [],
+        "location": "",
+        "key": "1906",
+        "waitlist": false
+      }
+    },
+    "COMP-701": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "1907",
+        "timeslot": [],
+        "location": "",
+        "key": "1907",
+        "waitlist": false
+      }
+    },
+    "COMP-764": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Dubach, Christophe",
+        "cartID": "1908",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMC 103",
+        "key": "1908",
+        "waitlist": false
+      }
+    },
+    "COMP-765": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Meger, David",
+        "cartID": "1909",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 5,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "1909",
+        "waitlist": true
+      }
+    },
+    "COMP-766": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Lin, Hsiu-Chin",
+        "cartID": "1910",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "1910",
+        "waitlist": false
+      }
+    },
+    "COMP-767": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Rolnick, David",
+        "cartID": "1911",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "",
+        "key": "1911",
+        "waitlist": false
+      }
+    },
+    "ECSE-200": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "teacher": "El-Gamal, Mourad N",
+        "cartID": "2039",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "SADB 2/36",
+        "key": "2039",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "5"
+        ],
+        "teacher": "",
+        "cartID": "2040",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2040",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "10"
+        ],
+        "teacher": "",
+        "cartID": "2041",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2041",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2042",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2042",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "20"
+        ],
+        "teacher": "",
+        "cartID": "2043",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2043",
+        "waitlist": false
+      }
+    },
+    "ECSE-201": {
+      "001": {
+        "type": "Intern",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2044",
+        "timeslot": [],
+        "location": "",
+        "key": "2044",
+        "waitlist": false
+      }
+    },
+    "ECSE-202": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Lin, Hsiu-Chin",
+        "cartID": "2045",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "2045",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2046",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "2046",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2047",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "2047",
+        "waitlist": false
+      }
+    },
+    "ECSE-205": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Leib, Harry",
+        "cartID": "2048",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0100",
+        "key": "2048",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2049",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2049",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2050",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2050",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "2051",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "12:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2051",
+        "waitlist": false
+      }
+    },
+    "ECSE-206": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Chen, Lawrence",
+        "cartID": "2052",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "EDUC 129",
+        "key": "2052",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "Chen, Lawrence",
+        "cartID": "2053",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ARTS W-120",
+        "key": "2053",
+        "waitlist": false
+      }
+    },
+    "ECSE-210": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "teacher": "Bhadra, Sharmistha",
+        "cartID": "2054",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          },
+          {
+            "day": 6,
+            "startTime": "09:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGMC 13",
+        "key": "2054",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "5"
+        ],
+        "teacher": "",
+        "cartID": "2055",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "WONG 1050",
+        "key": "2055",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "10"
+        ],
+        "teacher": "",
+        "cartID": "2056",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2056",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2057",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2057",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "20"
+        ],
+        "teacher": "",
+        "cartID": "2058",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2058",
+        "waitlist": false
+      }
+    },
+    "ECSE-211": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Lowther, David Alister; Kanaan, Marwan; Moon, AJung",
+        "cartID": "2059",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 0100",
+        "key": "2059",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2060",
+        "timeslot": [],
+        "location": "",
+        "key": "2060",
+        "waitlist": false
+      }
+    },
+    "ECSE-222": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Vaisband, Boris",
+        "cartID": "2061",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "2061",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2062",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2062",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2063",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2063",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "2064",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2064",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "2065",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2065",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2066",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "2066",
+        "waitlist": false
+      },
+      "007": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "18"
+        ],
+        "teacher": "",
+        "cartID": "2067",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2067",
+        "waitlist": false
+      },
+      "008": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "21"
+        ],
+        "teacher": "",
+        "cartID": "2068",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2068",
+        "waitlist": false
+      },
+      "009": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "24"
+        ],
+        "teacher": "",
+        "cartID": "2069",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2069",
+        "waitlist": false
+      }
+    },
+    "ECSE-223": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Kanaan, Marwan",
+        "cartID": "2070",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "2070",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2071",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2071",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2072",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2072",
+        "waitlist": false
+      }
+    },
+    "ECSE-250": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Lin, Hsiu-Chin",
+        "cartID": "6647",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "6647",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "6648",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "6648",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "6649",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "6649",
+        "waitlist": false
+      }
+    },
+    "ECSE-251": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Rochette, Martin",
+        "cartID": "2073",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "2073",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2074",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "SADB 1/12",
+        "key": "2074",
+        "waitlist": false
+      }
+    },
+    "ECSE-301": {
+      "001": {
+        "type": "Intern",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2075",
+        "timeslot": [],
+        "location": "",
+        "key": "2075",
+        "waitlist": false
+      }
+    },
+    "ECSE-307": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Mahajan, Aditya",
+        "cartID": "2076",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2076",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2077",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4090",
+        "key": "2077",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2079",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2079",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "2078",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4090",
+        "key": "2078",
+        "waitlist": false
+      }
+    },
+    "ECSE-308": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Champagne, Benoit",
+        "cartID": "2080",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "2080",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2081",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4090",
+        "key": "2081",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2084",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2084",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Tut",
+        "time_IDs": [
+          "8"
+        ],
+        "teacher": "",
+        "cartID": "2085",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2085",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2082",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4090",
+        "key": "2082",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "19"
+        ],
+        "teacher": "",
+        "cartID": "2083",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4090",
+        "key": "2083",
+        "waitlist": false
+      },
+      "007": {
+        "type": "Lab",
+        "time_IDs": [
+          "27"
+        ],
+        "teacher": "",
+        "cartID": "2086",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4090",
+        "key": "2086",
+        "waitlist": false
+      }
+    },
+    "ECSE-310": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Zhao, Songrui",
+        "cartID": "2087",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "MAASS 112",
+        "key": "2087",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2088",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGMD 276",
+        "key": "2088",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2089",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2089",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "2090",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2090",
+        "waitlist": false
+      }
+    },
+    "ECSE-316": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Coates, Mark",
+        "cartID": "2091",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0100",
+        "key": "2091",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2092",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2092",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2093",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2093",
+        "waitlist": false
+      }
+    },
+    "ECSE-321": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Kanaan, Marwan",
+        "cartID": "2094",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGMC 13",
+        "key": "2094",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2095",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "2095",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2096",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "2096",
+        "waitlist": false
+      }
+    },
+    "ECSE-324": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Meyer, Brett",
+        "cartID": "2097",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMC 13",
+        "key": "2097",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2098",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2098",
+        "waitlist": false
+      },
+      "007": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2103",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "12:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "2103",
+        "waitlist": false
+      },
+      "008": {
+        "type": "Tut",
+        "time_IDs": [
+          "8"
+        ],
+        "teacher": "",
+        "cartID": "2104",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "2104",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2099",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2099",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "19"
+        ],
+        "teacher": "",
+        "cartID": "2100",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2100",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "27"
+        ],
+        "teacher": "",
+        "cartID": "2101",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2101",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Lab",
+        "time_IDs": [
+          "35"
+        ],
+        "teacher": "",
+        "cartID": "2102",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2102",
+        "waitlist": false
+      },
+      "009": {
+        "type": "Lab",
+        "time_IDs": [
+          "43"
+        ],
+        "teacher": "",
+        "cartID": "2105",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2105",
+        "waitlist": false
+      }
+    },
+    "ECSE-325": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Clark, James J",
+        "cartID": "2106",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGMC 13",
+        "key": "2106",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2107",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "2107",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2108",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2108",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "2109",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "MDHAR G-01",
+        "key": "2109",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "12"
+        ],
+        "teacher": "",
+        "cartID": "2110",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2110",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Lab-Tuto",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2111",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "MDHAR G-01",
+        "key": "2111",
+        "waitlist": false
+      }
+    },
+    "ECSE-331": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Roberts, Gordon W",
+        "cartID": "2112",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "2112",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2113",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 5060",
+        "key": "2113",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2115",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "2115",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "2114",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 5060",
+        "key": "2114",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2116",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 5060",
+        "key": "2116",
+        "waitlist": false
+      }
+    },
+    "ECSE-343": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Khazaka, Roni",
+        "cartID": "2117",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 204",
+        "key": "2117",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2118",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "DUFF THTR 1",
+        "key": "2118",
+        "waitlist": false
+      }
+    },
+    "ECSE-354": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2",
+          "3"
+        ],
+        "teacher": "Szkopek, Thomas",
+        "cartID": "2119",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 1080",
+        "key": "2119",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2120",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5150",
+        "key": "2120",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Tut",
+        "time_IDs": [
+          "5"
+        ],
+        "teacher": "",
+        "cartID": "2124",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "2124",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "2121",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5150",
+        "key": "2121",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "14"
+        ],
+        "teacher": "",
+        "cartID": "2122",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5150",
+        "key": "2122",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "19"
+        ],
+        "teacher": "",
+        "cartID": "2123",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5150",
+        "key": "2123",
+        "waitlist": false
+      }
+    },
+    "ECSE-362": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2125",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "LEA 15",
+        "key": "2125",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2126",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5140",
+        "key": "2126",
+        "waitlist": false
+      },
+      "007": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2130",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2130",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "2127",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5140",
+        "key": "2127",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2128",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5140",
+        "key": "2128",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2129",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 5140",
+        "key": "2129",
+        "waitlist": false
+      }
+    },
+    "ECSE-396": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Psaromiligkos, Ioannis; Kanaan, Marwan",
+        "cartID": "2131",
+        "timeslot": [],
+        "location": "",
+        "key": "2131",
+        "waitlist": false
+      }
+    },
+    "ECSE-397": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Psaromiligkos, Ioannis; Kanaan, Marwan",
+        "cartID": "2132",
+        "timeslot": [],
+        "location": "",
+        "key": "2132",
+        "waitlist": false
+      }
+    },
+    "ECSE-401": {
+      "001": {
+        "type": "Intern",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2133",
+        "timeslot": [],
+        "location": "",
+        "key": "2133",
+        "waitlist": false
+      }
+    },
+    "ECSE-402": {
+      "001": {
+        "type": "Intern",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2134",
+        "timeslot": [],
+        "location": "",
+        "key": "2134",
+        "waitlist": false
+      }
+    },
+    "ECSE-403": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Caines, Peter Edwin",
+        "cartID": "2135",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2135",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2137",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5110",
+        "key": "2137",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2136",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2136",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "2138",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 5110",
+        "key": "2138",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2139",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 5110",
+        "key": "2139",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Lab",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2140",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 5110",
+        "key": "2140",
+        "waitlist": false
+      }
+    },
+    "ECSE-415": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Arbel, Tal",
+        "cartID": "2141",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 4,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "2141",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2142",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "14:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "2142",
+        "waitlist": false
+      }
+    },
+    "ECSE-420": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Giannacopoulos, Dennis",
+        "cartID": "2143",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "2143",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2144",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "12:35",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2144",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2145",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2145",
+        "waitlist": false
+      }
+    },
+    "ECSE-421": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Cooperstock, Jeremy",
+        "cartID": "2146",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "2146",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2147",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "RPHYS 114",
+        "key": "2147",
+        "waitlist": false
+      }
+    },
+    "ECSE-423": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "",
+        "cartID": "2148",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2148",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2149",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2149",
+        "waitlist": false
+      }
+    },
+    "ECSE-425": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Emad, Amin",
+        "cartID": "2150",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "2150",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2151",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ENGMC 11",
+        "key": "2151",
+        "waitlist": false
+      }
+    },
+    "ECSE-427": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "",
+        "cartID": "2152",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "MCMED 522",
+        "key": "2152",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2153",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "RPHYS 112",
+        "key": "2153",
+        "waitlist": false
+      }
+    },
+    "ECSE-428": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "",
+        "cartID": "2154",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "18:05",
+            "endTime": "20:55"
+          }
+        ],
+        "location": "ENGMC 304",
+        "key": "2154",
+        "waitlist": false
+      }
+    },
+    "ECSE-429": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Varro, Daniel",
+        "cartID": "2155",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 1080",
+        "key": "2155",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2156",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 1090",
+        "key": "2156",
+        "waitlist": false
+      }
+    },
+    "ECSE-433": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Szkopek, Thomas",
+        "cartID": "2157",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "BURN 1205",
+        "key": "2157",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2159",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4070",
+        "key": "2159",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2158",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2158",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "2160",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4070",
+        "key": "2160",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2161",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4070",
+        "key": "2161",
+        "waitlist": false
+      }
+    },
+    "ECSE-439": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Mussbacher, Gunter",
+        "cartID": "2162",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2162",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2163",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2163",
+        "waitlist": false
+      }
+    },
+    "ECSE-444": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Zilic, Zeljko",
+        "cartID": "2164",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGMD 279",
+        "key": "2164",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2166",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:35",
+            "endTime": "15:25"
+          }
+        ],
+        "location": "ENGTR 4160",
+        "key": "2166",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "4"
+        ],
+        "teacher": "",
+        "cartID": "2165",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "10:25"
+          }
+        ],
+        "location": "MAASS 217",
+        "key": "2165",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "7"
+        ],
+        "teacher": "",
+        "cartID": "2167",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4160",
+        "key": "2167",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "11"
+        ],
+        "teacher": "",
+        "cartID": "2168",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ENGTR 4160",
+        "key": "2168",
+        "waitlist": false
+      },
+      "006": {
+        "type": "Lab",
+        "time_IDs": [
+          "15"
+        ],
+        "teacher": "",
+        "cartID": "2169",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 4160",
+        "key": "2169",
+        "waitlist": false
+      }
+    },
+    "ECSE-458": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Psaromiligkos, Ioannis; Kanaan, Marwan",
+        "cartID": "5095",
+        "timeslot": [],
+        "location": "",
+        "key": "5095",
+        "waitlist": false
+      }
+    },
+    "ECSE-460": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2170",
+        "timeslot": [],
+        "location": "",
+        "key": "2170",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2172",
+        "timeslot": [],
+        "location": "",
+        "key": "2172",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2171",
+        "timeslot": [],
+        "location": "",
+        "key": "2171",
+        "waitlist": false
+      }
+    },
+    "ECSE-461": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Wang, Xiaozhe",
+        "cartID": "2173",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGMC 204",
+        "key": "2173",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2174",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          }
+        ],
+        "location": "MAASS 10",
+        "key": "2174",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2175",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:25"
+          }
+        ],
+        "location": "MAASS 10",
+        "key": "2175",
+        "waitlist": false
+      }
+    },
+    "ECSE-463": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2176",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "09:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "",
+        "key": "2176",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Tut",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2177",
+        "timeslot": [],
+        "location": "",
+        "key": "2177",
+        "waitlist": false
+      }
+    },
+    "ECSE-466": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2178",
+        "timeslot": [],
+        "location": "",
+        "key": "2178",
+        "waitlist": false
+      }
+    },
+    "ECSE-467": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2179",
+        "timeslot": [],
+        "location": "",
+        "key": "2179",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2180",
+        "timeslot": [],
+        "location": "",
+        "key": "2180",
+        "waitlist": false
+      }
+    },
+    "ECSE-468": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2181",
+        "timeslot": [],
+        "location": "",
+        "key": "2181",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2183",
+        "timeslot": [],
+        "location": "",
+        "key": "2183",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2182",
+        "timeslot": [],
+        "location": "",
+        "key": "2182",
+        "waitlist": false
+      }
+    },
+    "ECSE-469": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2184",
+        "timeslot": [],
+        "location": "",
+        "key": "2184",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Bouffard, Fran\u00e7ois",
+        "cartID": "2185",
+        "timeslot": [],
+        "location": "",
+        "key": "2185",
+        "waitlist": false
+      }
+    },
+    "ECSE-478": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Psaromiligkos, Ioannis; Kanaan, Marwan",
+        "cartID": "5096",
+        "timeslot": [],
+        "location": "",
+        "key": "5096",
+        "waitlist": false
+      }
+    },
+    "ECSE-496": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Psaromiligkos, Ioannis; Kanaan, Marwan",
+        "cartID": "2186",
+        "timeslot": [],
+        "location": "",
+        "key": "2186",
+        "waitlist": false
+      }
+    },
+    "ECSE-497": {
+      "001": {
+        "type": "Indep St",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "Psaromiligkos, Ioannis; Kanaan, Marwan",
+        "cartID": "2187",
+        "timeslot": [],
+        "location": "",
+        "key": "2187",
+        "waitlist": false
+      }
+    },
+    "ECSE-507": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Michalska, Hannah",
+        "cartID": "2188",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2188",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Michalska, Hannah",
+        "cartID": "2189",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2189",
+        "waitlist": false
+      }
+    },
+    "ECSE-508": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Mahajan, Aditya",
+        "cartID": "2190",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2190",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Mahajan, Aditya",
+        "cartID": "2191",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          },
+          {
+            "day": 6,
+            "startTime": "14:35",
+            "endTime": "15:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2191",
+        "waitlist": false
+      }
+    },
+    "ECSE-516": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Caines, Peter Edwin",
+        "cartID": "2192",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 4,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2192",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2194",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:35",
+            "endTime": "12:25"
+          }
+        ],
+        "location": "ENGTR 2100",
+        "key": "2194",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Caines, Peter Edwin",
+        "cartID": "2193",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          },
+          {
+            "day": 4,
+            "startTime": "16:05",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2193",
+        "waitlist": false
+      }
+    },
+    "ECSE-518": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Coates, Mark",
+        "cartID": "2195",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2195",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Coates, Mark",
+        "cartID": "2196",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 4,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2196",
+        "waitlist": false
+      }
+    },
+    "ECSE-522": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Wang, Xiaozhe",
+        "cartID": "2197",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2197",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Wang, Xiaozhe",
+        "cartID": "2198",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "13:25"
+          }
+        ],
+        "location": "ENGTR 2120",
+        "key": "2198",
+        "waitlist": false
+      }
+    },
+    "ECSE-523": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "O'Shaughnessy, Douglas",
+        "cartID": "2199",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2199",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "O'Shaughnessy, Douglas",
+        "cartID": "2200",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "2200",
+        "waitlist": false
+      }
+    },
+    "ECSE-527": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "",
+        "cartID": "2201",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2201",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "",
+        "cartID": "2202",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2202",
+        "waitlist": false
+      }
+    },
+    "ECSE-536": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "El-Gamal, Mourad N",
+        "cartID": "2203",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "17:35",
+            "endTime": "20:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2203",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "El-Gamal, Mourad N",
+        "cartID": "2204",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "17:35",
+            "endTime": "20:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2204",
+        "waitlist": false
+      }
+    },
+    "ECSE-539": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Mussbacher, Gunter",
+        "cartID": "2205",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2205",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2207",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "14:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2207",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Mussbacher, Gunter",
+        "cartID": "2206",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGTR 1100",
+        "key": "2206",
+        "waitlist": false
+      }
+    },
+    "ECSE-541": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Meyer, Brett",
+        "cartID": "7388",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "7388",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Meyer, Brett",
+        "cartID": "7389",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 5,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "7389",
+        "waitlist": false
+      }
+    },
+    "ECSE-544": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Clark, James J",
+        "cartID": "2208",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2208",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Clark, James J",
+        "cartID": "2209",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 5,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2209",
+        "waitlist": false
+      }
+    },
+    "ECSE-551": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Armanfard, Narges",
+        "cartID": "2210",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2210",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2212",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2212",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Armanfard, Narges",
+        "cartID": "2211",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2211",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Tut",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2213",
+        "timeslot": [
+          {
+            "day": 6,
+            "startTime": "15:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "MAASS 328",
+        "key": "2213",
+        "waitlist": false
+      }
+    },
+    "ECSE-552": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Emad, Amin",
+        "cartID": "2214",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2214",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Lab",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2216",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2216",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Emad, Amin",
+        "cartID": "2215",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          },
+          {
+            "day": 4,
+            "startTime": "08:35",
+            "endTime": "09:55"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2215",
+        "waitlist": false
+      },
+      "004": {
+        "type": "Lab",
+        "time_IDs": [
+          "6"
+        ],
+        "teacher": "",
+        "cartID": "2217",
+        "timeslot": [
+          {
+            "day": 5,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2217",
+        "waitlist": false
+      },
+      "005": {
+        "type": "Lab",
+        "time_IDs": [
+          "9"
+        ],
+        "teacher": "",
+        "cartID": "2218",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "15:35",
+            "endTime": "16:25"
+          }
+        ],
+        "location": "ENGTR 4110",
+        "key": "2218",
+        "waitlist": false
+      }
+    },
+    "ECSE-553": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Varro, Daniel",
+        "cartID": "2219",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "SH688 1088",
+        "key": "2219",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Varro, Daniel",
+        "cartID": "2220",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "SH688 1088",
+        "key": "2220",
+        "waitlist": false
+      }
+    },
+    "ECSE-557": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Moon, AJung",
+        "cartID": "2221",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2221",
+        "waitlist": false
+      },
+      "003": {
+        "type": "Tut",
+        "time_IDs": [
+          "3"
+        ],
+        "teacher": "",
+        "cartID": "2223",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "16:35",
+            "endTime": "17:25"
+          }
+        ],
+        "location": "ENGTR 0070",
+        "key": "2223",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Moon, AJung",
+        "cartID": "2222",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 0060",
+        "key": "2222",
+        "waitlist": false
+      }
+    },
+    "ECSE-575": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Vaisband, Boris",
+        "cartID": "7328",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "BURN 1234",
+        "key": "7328",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Vaisband, Boris",
+        "cartID": "7329",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 6,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "BURN 1234",
+        "key": "7329",
+        "waitlist": false
+      }
+    },
+    "ECSE-596": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Liboiron-Ladouceur, Odile",
+        "cartID": "2224",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 12",
+        "key": "2224",
+        "waitlist": false
+      },
+      "002": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Liboiron-Ladouceur, Odile",
+        "cartID": "2225",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGMC 12",
+        "key": "2225",
+        "waitlist": false
+      }
+    },
+    "ECSE-610": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Champagne, Benoit",
+        "cartID": "2226",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "SH688 1085",
+        "key": "2226",
+        "waitlist": false
+      }
+    },
+    "ECSE-618": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1"
+        ],
+        "teacher": "Cooperstock, Jeremy",
+        "cartID": "7433",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "13:05",
+            "endTime": "14:55"
+          }
+        ],
+        "location": "SH688 1255",
+        "key": "7433",
+        "waitlist": false
+      }
+    },
+    "ECSE-621": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Leib, Harry",
+        "cartID": "2227",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMC 103",
+        "key": "2227",
+        "waitlist": false
+      }
+    },
+    "ECSE-626": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Arbel, Tal",
+        "cartID": "7253",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 5,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "WONG 1030",
+        "key": "7253",
+        "waitlist": false
+      }
+    },
+    "ECSE-635": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Bhadra, Sharmistha",
+        "cartID": "2228",
+        "timeslot": [
+          {
+            "day": 4,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          },
+          {
+            "day": 6,
+            "startTime": "13:05",
+            "endTime": "14:25"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2228",
+        "waitlist": false
+      }
+    },
+    "ECSE-651": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2229",
+        "timeslot": [],
+        "location": "",
+        "key": "2229",
+        "waitlist": false
+      }
+    },
+    "ECSE-652": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2230",
+        "timeslot": [],
+        "location": "",
+        "key": "2230",
+        "waitlist": false
+      }
+    },
+    "ECSE-653": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2231",
+        "timeslot": [],
+        "location": "",
+        "key": "2231",
+        "waitlist": false
+      }
+    },
+    "ECSE-654": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2232",
+        "timeslot": [],
+        "location": "",
+        "key": "2232",
+        "waitlist": false
+      }
+    },
+    "ECSE-655": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2233",
+        "timeslot": [],
+        "location": "",
+        "key": "2233",
+        "waitlist": false
+      }
+    },
+    "ECSE-656": {
+      "001": {
+        "type": "Project",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2234",
+        "timeslot": [],
+        "location": "",
+        "key": "2234",
+        "waitlist": false
+      }
+    },
+    "ECSE-683": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Lin, Hsiu-Chin",
+        "cartID": "2236",
+        "timeslot": [
+          {
+            "day": 3,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          },
+          {
+            "day": 5,
+            "startTime": "11:35",
+            "endTime": "12:55"
+          }
+        ],
+        "location": "ENGTR 2110",
+        "key": "2236",
+        "waitlist": false
+      }
+    },
+    "ECSE-689": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          "1",
+          "2"
+        ],
+        "teacher": "Dubach, Christophe",
+        "cartID": "6997",
+        "timeslot": [
+          {
+            "day": 2,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          },
+          {
+            "day": 4,
+            "startTime": "10:05",
+            "endTime": "11:25"
+          }
+        ],
+        "location": "ENGMC 103",
+        "key": "6997",
+        "waitlist": false
+      }
+    },
+    "ECSE-691": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2238",
+        "timeslot": [],
+        "location": "",
+        "key": "2238",
+        "waitlist": false
+      }
+    },
+    "ECSE-692": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2239",
+        "timeslot": [],
+        "location": "",
+        "key": "2239",
+        "waitlist": false
+      }
+    },
+    "ECSE-693": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2240",
+        "timeslot": [],
+        "location": "",
+        "key": "2240",
+        "waitlist": false
+      }
+    },
+    "ECSE-694": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2241",
+        "timeslot": [],
+        "location": "",
+        "key": "2241",
+        "waitlist": false
+      }
+    },
+    "ECSE-695": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2242",
+        "timeslot": [],
+        "location": "",
+        "key": "2242",
+        "waitlist": false
+      }
+    },
+    "ECSE-696": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2243",
+        "timeslot": [],
+        "location": "",
+        "key": "2243",
+        "waitlist": false
+      }
+    },
+    "ECSE-697": {
+      "001": {
+        "type": "ThesCrse",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2244",
+        "timeslot": [],
+        "location": "",
+        "key": "2244",
+        "waitlist": false
+      }
+    },
+    "ECSE-701": {
+      "001": {
+        "type": "Comp Ex",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2245",
+        "timeslot": [],
+        "location": "",
+        "key": "2245",
+        "waitlist": false
+      }
+    },
+    "ECSE-702": {
+      "001": {
+        "type": "Proposal",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2246",
+        "timeslot": [],
+        "location": "",
+        "key": "2246",
+        "waitlist": false
+      }
+    },
+    "ECSE-703": {
+      "001": {
+        "type": "Lec",
+        "time_IDs": [
+          ""
+        ],
+        "teacher": "",
+        "cartID": "2247",
+        "timeslot": [],
+        "location": "",
+        "key": "2247",
+        "waitlist": false
+      }
+    }
+  }
