@@ -18,10 +18,7 @@ const Home = () => {
   
   const [events, setEvents] =  useState([
     {
-      title: 'Class 1',
-      start: '2021-10-01T09:00:00',
-      end: '2021-10-01T10:00:00',
-      daysOfWeek: [1, 2, 3, 4, 5],
+      
     }
   ]);
   
