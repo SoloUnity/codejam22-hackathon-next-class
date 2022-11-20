@@ -20,7 +20,7 @@ const Home = () => {
 
   const [events, setEvents] =  useState([
     {
-      
+
     }
   ]);
   
@@ -121,27 +121,23 @@ console.log(temp_ls);
 
           <div className='block-container'>
             <div className="schedule-container">
-              <button className="button-css" onClick={LoadingData}>Load my Calendar</button>
+              <button className="blue" onClick={LoadingData}>Load my Calendar</button>
               <FullCalendar
         plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
         initialView="timeGridWeek"
         events={events}
-        eventColor="#3ba2c8"
+        eventColor="#667a89"
         nowIndicator
         dateClick={(e) => console.log(e.dateStr)}
         eventClick={(e) => console.log(e.event.id)}
         />
             </div>
             <div className='friends-container'>
-            <div class="input-bar">
-                <label for="Email">Email Adress</label>
-                <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input"/>
+            <div class="input-bar" id='input-bar-small'>
+                <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input" placeholder='Email Adress'/>
                 <box-icon name='user'></box-icon>
             </div>
             <button onClick={addFriend} className="button-css">Add friends</button>
-            <button><Link className='link_button' to='/addcourse'>Add courses</Link></button>
-                
-
             </div>
           </div>
       </div>
