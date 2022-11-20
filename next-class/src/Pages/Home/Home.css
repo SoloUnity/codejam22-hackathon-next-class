@@ -17,7 +17,7 @@
     align-items: center;
 }
 
-.button-css {
+.red, .blue {
     width: 140px;
     height: 30px;
     font-family: 'Roboto', sans-serif;
@@ -34,8 +34,14 @@
     cursor: pointer;
     outline: none;
     }
-  
-.button-css:hover {
+
+.blue:hover{
+    background-color: #3d7af3;
+    box-shadow: 0px 15px 20px rgba(255, 237, 237, 0.4);
+    color: #fff;
+    transform: translateY(-1px);
+}
+.red:hover {
     background-color: #e52e2e;
     box-shadow: 0px 15px 20px rgba(229, 46, 46, 0.4);
     color: #fff;
@@ -50,6 +56,19 @@ box-shadow:  24px 24px 39px #d1d2d6,
     height: 600px;
     padding: 3%;
 }
+
+#input-bar-small{
+    width: 80%;
+    min-width: 150px;
+    height: 45px;
+    border: 2px solid #000;
+    border-radius: 25px;
+    opacity: 0.5;
+    transition: 200ms;
+    font-weight: 600;
+    position: relative;
+}
+
 
 
 

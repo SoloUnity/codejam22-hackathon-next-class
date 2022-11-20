@@ -32,18 +32,15 @@ return (
         <h1 class='welcome-text'>Register to Next-Class</h1>
         <form>
         <div class="input-bar">
-                <label for="username">Username</label>
-                <input  onChange={(event) => setUsername(event.target.value)} type="text" id="Email" class="input"/>
+                <input  onChange={(event) => setUsername(event.target.value)} type="text" id="Email" class="input" placeholder='Username'/>
                 <box-icon name='user'></box-icon>
             </div>
             <div class="input-bar">
-                <label for="Email">Email Adress</label>
-                <input  onChange={(event) => setEmail(event.target.value)} type="text" id="Email" class="input"/>
+                <input  onChange={(event) => setEmail(event.target.value)} type="text" id="Email" class="input" placeholder='Email Adress'/>
                 <box-icon name='user'></box-icon>
             </div>
             <div class="input-bar">
-                <label for="password">New password</label>
-                <input onChange={(event) => setPassword(event.target.value)} type="password" id="password" class="input"/>
+                <input onChange={(event) => setPassword(event.target.value)} type="password" id="password" class="input" placeholder='Password'/>
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>

@@ -19,9 +19,10 @@ const Home = () => {
 
   const [events, setEvents] =  useState([
     {
-      
+
     }
   ]);
+  
   
   const[user] = useAuthState(auth);
   const[friend, setFriend] = React.useState('');
@@ -43,8 +44,8 @@ const Home = () => {
   const LoadingData = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
-        var myFriends = docSnap.data().friends;
-        console.log("My friends: " + myFriends);
+        var myFriends = docSnap.data();
+        console.log("My friends: " + myFriends.friends);
       }
     });
     getDoc(doc(db, "users", user.email)).then(docSnap => {
@@ -121,35 +122,23 @@ console.log(temp_ls);
 
           <div className='block-container'>
             <div className="schedule-container">
-              <button className="button-css" onClick={LoadingData}>Load my Calendar</button>
+              <button className="blue" onClick={LoadingData}>Load my Calendar</button>
               <FullCalendar
         plugins={[timeGridPlugin, interactionPlugin]}
         initialView="timeGridWeek"
         events={events}
-        allDay={false}
-        weekends={false}
-        eventColor="#3ba2c8"
-        slotMinTime='08:00:00'
-        slotMaxTime='18:00:00'
-        displayEventTime= {false}
-        allDaySlot={false}
-        nextDayThreshold='09:00:00'
-        expandRows={true}
-        dayHeaderFormat={{ weekday: 'short', omitCommas: true }}
-        eventTimeFormat={ { hour: '2-digit', minute: '2-digit', second:'2-digit', meridiem: false } }
+        eventColor="#667a89"
         nowIndicator
         dateClick={(e) => console.log(e.dateStr)}
         eventClick={(e) => console.log(e.event.id)}
         />
             </div>
             <div className='friends-container'>
-            <div class="input-bar">
-                <label for="Email">Email Adress</label>
-                <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input"/>
+            <div class="input-bar" id='input-bar-small'>
+                <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input" placeholder='Email Adress'/>
                 <box-icon name='user'></box-icon>
             </div>
-            <button onClick={addFriend} className="button-css">Add friends</button>
-            <button><Link className='link_button' to='/addcourse'>Add courses</Link></button>
+            <button onClick={addFriend} className="blue">Add friends</button>
             </div>
           </div>
       </div>
