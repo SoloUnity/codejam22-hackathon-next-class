@@ -1,13 +1,50 @@
 import './Home.css';
-import { NavBar, Calendar} from '../../components/index';
+import { NavBar} from '../../components/index';
 import { doc, getDoc, getFirestore } from "firebase/firestore";
 import { auth } from '../../firebase';
 import {useAuthState} from 'react-firebase-hooks/auth';
 import React from 'react';
-import {createRoot} from 'react-dom/client' 
 import courses from './Courses.json';
+import FullCalendar from '@fullcalendar/react';
+import dayGridPlugin from '@fullcalendar/daygrid';
+import timeGridPlugin from '@fullcalendar/timegrid';
+import interactionPlugin from '@fullcalendar/interaction';
 
 const db = getFirestore();
+
+const events = [
+  {
+    id: 1,
+    title: 'event 1',
+    start: '12:00:00',
+    end: '14:00:00',
+    daysOfWeek: [1, 2, 3, 4, 5],
+  },
+  {
+    id: 2,
+    title: 'event 2',
+    start: '2021-06-16T13:00:00',
+    end: '2021-06-16T18:00:00',
+  },
+  {
+    id: 3,
+    title: 'event 2',
+    start: '2021-06-16T13:00:00',
+    end: '2021-06-16T18:00:00',
+  },
+  {
+    id: 4,
+    title: 'event 2',
+    start: '2021-06-16T13:00:00',
+    end: '2021-06-16T18:00:00',
+  },
+  {
+    id: 5,
+    title: 'event 2',
+    start: '2021-06-16T13:00:00',
+    end: '2021-06-16T18:00:00',
+  },
+];
 
 const Home = () => {
   const[user] = useAuthState(auth);
@@ -68,7 +105,15 @@ const Home = () => {
           <div className='block-container'>
             <div className="schedule-container">
               <button className="button-css" onClick={LoadingData}>Load my Calendar</button>
-              <Calendar/>
+              <FullCalendar
+        plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
+        initialView="dayGridWeek"
+        events={events}
+        eventColor="red"
+        nowIndicator
+        dateClick={(e) => console.log(e.dateStr)}
+        eventClick={(e) => console.log(e.event.id)}
+        />
             </div>
             <div className='friends-container'>Friends</div>
           </div>
