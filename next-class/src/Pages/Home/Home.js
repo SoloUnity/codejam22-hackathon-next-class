@@ -105,6 +105,15 @@ const Home = () => {
       }
     });
   console.log(today_classes);
+  for (let i = 0; i < today_classes.length; i++){
+    let courseName = today_classes[i][2];
+    let teacher = today_classes[i][0]['teacher'];
+    let startTime = today_classes[i][0]['timeslot'][today_classes[1]]['startTime'];
+    let endTime = today_classes[i][0]['timeslot'][today_classes[1]]['endTime'];
+    
+    
+  }
+  
       }
     }
       } else {
