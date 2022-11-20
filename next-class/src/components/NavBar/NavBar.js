@@ -10,6 +10,7 @@ const NavBar = () => {
     <div><h2 className="logo">Next-Class</h2></div>
     <img src={Logo} alt='reload page' className='logo'></img>
       <div class="links">
+      <button className='blue'><Link className='link' to='/addcourse'>Add course</Link></button>
         <button className = 'button-css' onClick={() => auth.signOut()}><Link className='link_button' to='/'>Sign Out</Link></button>
       </div>
     </div></div>
