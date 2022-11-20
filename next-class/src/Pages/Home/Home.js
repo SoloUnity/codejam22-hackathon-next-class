@@ -3,7 +3,7 @@ import { NavBar} from '../../components/index';
 import { doc, getDoc, getFirestore, updateDoc, arrayUnion } from "firebase/firestore";
 import { auth } from '../../firebase';
 import {useAuthState} from 'react-firebase-hooks/auth';
-import React from 'react';
+import React, { useState } from 'react';
 import courses from './Courses.json';
 import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
@@ -12,16 +12,19 @@ import interactionPlugin from '@fullcalendar/interaction';
 
 const db = getFirestore();
 
-const events = [
-  {
-    title: 'Class 1',
-    start: '2021-10-01T09:00:00',
-    end: '2021-10-01T10:00:00',
-    daysOfWeek: [1, 2, 3, 4, 5],
-  }
-];
+
 
 const Home = () => {
+  
+  const [events, setEvents] =  useState([
+    {
+      title: 'Class 1',
+      start: '2021-10-01T09:00:00',
+      end: '2021-10-01T10:00:00',
+      daysOfWeek: [1, 2, 3, 4, 5],
+    }
+  ]);
+  
   const[user] = useAuthState(auth);
   const[friend, setFriend] = React.useState('');
 
@@ -76,7 +79,8 @@ const Home = () => {
     });
   console.log(today_classes);
 
-
+setEvents()
+const temp_ls = [];
   for (let i = 0; i < today_classes.length; i++){
     let courseName = today_classes[i][2];
     let timeStart = today_classes[i][0]['timeslot'][today_classes[i][1]]['startTime'];
@@ -87,13 +91,13 @@ const Home = () => {
     
   }
   console.log(days);
-  events.push({
+  temp_ls.push({
     title: courseName,
     start: '2021-10-01T' + timeStart+":00",
     end: '2021-10-01T' + endTime+":00",
     daysOfWeek: days,
 });
-console.log(events);
+setEvents(temp_ls)
 
 }
       }
