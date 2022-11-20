@@ -42,6 +42,12 @@ const Home = () => {
   const LoadingData = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
+        var myFriends = docSnap.data().friends;
+        console.log("My friends: " + myFriends);
+      }
+    });
+    getDoc(doc(db, "users", user.email)).then(docSnap => {
+      if (docSnap.exists()) {
         var userClass = docSnap.data().classes;
         for (let i = 0; i < userClass.length; i++) {
           userClass[i] = userClass[i].split(" ");
@@ -95,6 +101,7 @@ const temp_ls = [];
     daysOfWeek: days,
 });
 setEvents(temp_ls)
+console.log(temp_ls);
 
 }
       }
@@ -114,7 +121,7 @@ setEvents(temp_ls)
               <button className="button-css" onClick={LoadingData}>Load my Calendar</button>
               <FullCalendar
         plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
-        initialView="dayGridWeek"
+        initialView="timeGridWeek"
         events={events}
         eventColor="#3ba2c8"
         nowIndicator
