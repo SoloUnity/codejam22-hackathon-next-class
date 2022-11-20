@@ -137,7 +137,7 @@ console.log(temp_ls);
                 <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input" placeholder='Email Adress'/>
                 <box-icon name='user'></box-icon>
             </div>
-            <button onClick={addFriend} className="button-css">Add friends</button>
+            <button onClick={addFriend} className="blue">Add friends</button>
             </div>
           </div>
       </div>
