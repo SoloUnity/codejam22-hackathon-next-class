@@ -45,7 +45,7 @@ const Home = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
         var myFriends = docSnap.data();
-        document.getElementById("friends").innerHTML = myFriends.friends.stringify();
+        document.getElementById("friends").innerHTML = myFriends.friends;
         console.log("My friends: " + typeof myFriends.friends);
       }
     });
