@@ -17,6 +17,10 @@
     align-items: center;
 }
 
+.friendslist{
+    margin-top:5% ;
+}
+
 .red, .blue {
     width: 140px;
     height: 30px;

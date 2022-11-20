@@ -45,6 +45,7 @@ const Home = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
         var myFriends = docSnap.data();
+        document.getElementById("friends").innerHTML = myFriends.friends;
         console.log("My friends: " + myFriends.friends);
       }
     });
@@ -146,7 +147,12 @@ console.log(temp_ls);
                 <box-icon name='user'></box-icon>
             </div>
             <button onClick={addFriend} className="blue">Add friends</button>
+            <div className='friendslist'>
+              <h1 className='friendslist'>Friends</h1>
+              <div id='friends'></div>
             </div>
+            </div>
+
           </div>
       </div>
     )
