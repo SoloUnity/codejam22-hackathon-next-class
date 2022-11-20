@@ -6,7 +6,6 @@ import {useAuthState} from 'react-firebase-hooks/auth';
 import React, { useState } from 'react';
 import courses from './Courses.json';
 import FullCalendar from '@fullcalendar/react';
-import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import interactionPlugin from '@fullcalendar/interaction';
 import { Link } from 'react-router-dom';
@@ -98,8 +97,10 @@ const temp_ls = [];
   console.log(days);
   temp_ls.push({
     title: courseName,
-    start: '2021-10-01T' + timeStart+":00",
-    end: '2021-10-01T' + endTime+":00",
+    endStr: '2023-10-01T' + timeStart+":00-"+ endTime,
+    startStr: '2022-10-01T' + timeStart+":00-"+ endTime,
+    startTime: timeStart+":00",
+    endTime: endTime+":00",
     daysOfWeek: days,
 });
 setEvents(temp_ls)
@@ -122,10 +123,20 @@ console.log(temp_ls);
             <div className="schedule-container">
               <button className="button-css" onClick={LoadingData}>Load my Calendar</button>
               <FullCalendar
-        plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
+        plugins={[timeGridPlugin, interactionPlugin]}
         initialView="timeGridWeek"
         events={events}
+        allDay={false}
+        weekends={false}
         eventColor="#3ba2c8"
+        slotMinTime='08:00:00'
+        slotMaxTime='18:00:00'
+        displayEventTime= {false}
+        allDaySlot={false}
+        nextDayThreshold='09:00:00'
+        expandRows={true}
+        dayHeaderFormat={{ weekday: 'short', omitCommas: true }}
+        eventTimeFormat={ { hour: '2-digit', minute: '2-digit', second:'2-digit', meridiem: false } }
         nowIndicator
         dateClick={(e) => console.log(e.dateStr)}
         eventClick={(e) => console.log(e.event.id)}
