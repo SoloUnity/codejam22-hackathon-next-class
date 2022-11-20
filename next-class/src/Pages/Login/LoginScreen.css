@@ -92,7 +92,7 @@
     width: 350px;
     border: none;
     padding: 15px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     background-color: rgba(250, 253, 255, 0.453);
     font-size: 24px;
     border-radius: 30px;
@@ -112,6 +112,6 @@
 #btn:hover {
     background-color: #ffffff;
     box-shadow: 0px 15px 20px rgba(141, 141, 141, 0.4);
-    color: rgb(255, 255, 255);
+    color: rgb(8, 8, 8);
     transform: translateY(-1px);
 }

@@ -78,4 +78,8 @@ box-shadow:  24px 24px 39px #d1d2d6,
 
 
 
+.link {
+    text-decoration: none;
+    font-color: black;
+}
 

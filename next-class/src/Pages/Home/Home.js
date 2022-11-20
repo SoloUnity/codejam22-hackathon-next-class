@@ -140,6 +140,7 @@ console.log(temp_ls);
         dateClick={(e) => console.log(e.dateStr)}
         eventClick={(e) => console.log(e.event.id)}
         />
+    
             </div>
             <div className='friends-container' id='friend'>
             <div class="input-bar" id='input-bar-small'>
