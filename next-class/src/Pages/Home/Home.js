@@ -126,7 +126,14 @@ console.log(temp_ls);
               <FullCalendar
         plugins={[timeGridPlugin, interactionPlugin]}
         initialView="timeGridWeek"
+        allDaySlot={false}
+        slotMinTime="08:00:00"
+        slotMaxTime="18:00:00"
+        weekends={false}
+        dayHeaderFormat={{ weekday: 'short', omitCommas: true }}
         events={events}
+        displayEventTime={false}
+        scrollTime="08:00:00"
         eventColor="#667a89"
         nowIndicator
         dateClick={(e) => console.log(e.dateStr)}
