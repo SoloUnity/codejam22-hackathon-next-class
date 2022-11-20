@@ -24,6 +24,7 @@ const Home = () => {
     }
   ]);
   
+  
   const[user] = useAuthState(auth);
   const[friend, setFriend] = React.useState('');
 
@@ -44,8 +45,8 @@ const Home = () => {
   const LoadingData = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
-        var myFriends = docSnap.data().friends;
-        console.log("My friends: " + myFriends);
+        var myFriends = docSnap.data();
+        console.log("My friends: " + myFriends.friends);
       }
     });
     getDoc(doc(db, "users", user.email)).then(docSnap => {
@@ -139,6 +140,8 @@ console.log(temp_ls);
             </div>
             <button onClick={addFriend} className="button-css">Add friends</button>
             <button><Link className='link_button' to='/addcourse'>Add courses</Link></button>
+                
+
             </div>
           </div>
       </div>
