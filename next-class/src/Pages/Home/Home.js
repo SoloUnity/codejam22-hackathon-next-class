@@ -9,6 +9,7 @@ import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import interactionPlugin from '@fullcalendar/interaction';
+import { Link } from 'react-router-dom';
 
 const db = getFirestore();
 
@@ -136,6 +137,7 @@ console.log(temp_ls);
                 <box-icon name='user'></box-icon>
             </div>
             <button onClick={addFriend} className="button-css">Add friends</button>
+            <button><Link className='link_button' to='/addcourse'>Add courses</Link></button>
             </div>
           </div>
       </div>
