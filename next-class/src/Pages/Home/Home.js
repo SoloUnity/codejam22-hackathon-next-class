@@ -1,6 +1,6 @@
 import './Home.css';
 import { NavBar} from '../../components/index';
-import { doc, getDoc, getFirestore } from "firebase/firestore";
+import { doc, getDoc, getFirestore, updateDoc, arrayUnion } from "firebase/firestore";
 import { auth } from '../../firebase';
 import {useAuthState} from 'react-firebase-hooks/auth';
 import React from 'react';
@@ -16,7 +16,7 @@ const events = [
   {
     id: 1,
     title: 'event 1',
-    start: '12:00:00',
+    start: '2:00:00',
     end: '14:00:00',
     daysOfWeek: [1, 2, 3, 4, 5],
   },
@@ -48,6 +48,21 @@ const events = [
 
 const Home = () => {
   const[user] = useAuthState(auth);
+  const[friend, setFriend] = React.useState('');
+
+  const addFriend = () => {
+  
+    if (friend !== ''){
+      const friendRef = doc(db, "users", user.email);
+      updateDoc(friendRef, {
+          friends: arrayUnion(friend),
+      });
+      alert("Friend Added!");
+    }
+      else {
+        alert("Please fill in all fields");
+    }
+}
 
   const LoadingData = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
@@ -109,13 +124,20 @@ const Home = () => {
         plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
         initialView="dayGridWeek"
         events={events}
-        eventColor="red"
+        eventColor="#3ba2c8"
         nowIndicator
         dateClick={(e) => console.log(e.dateStr)}
         eventClick={(e) => console.log(e.event.id)}
         />
             </div>
-            <div className='friends-container'>Friends</div>
+            <div className='friends-container'>
+            <div class="input-bar">
+                <label for="Email">Email Adress</label>
+                <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input"/>
+                <box-icon name='user'></box-icon>
+            </div>
+            <button onClick={addFriend} className="button-css">Add friends</button>
+            </div>
           </div>
       </div>
     )
