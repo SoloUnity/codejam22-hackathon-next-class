@@ -1,6 +1,22 @@
 .home-wrapper {
-    background-color: #F6F8FF;
+    background-color: rgb(235,236,240);
     height: 100vh;
     padding-top: 1%;
 }
   
+.block-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 5%;
+    margin: 4% 7.5% 0 7.5%;
+}
+
+
+.schedule-container, .friends-container{
+border-radius: 25px;
+background: #ebecf0;
+box-shadow:  24px 24px 39px #d1d2d6,
+             -24px -24px 39px #ffffff;
+    height: 600px;
+}
+

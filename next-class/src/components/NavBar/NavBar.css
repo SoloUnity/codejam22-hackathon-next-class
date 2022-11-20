@@ -1,14 +1,16 @@
 .navbar {
+    margin-top: 1%;
     width: 85%;
     min-height: 60px;
-    background-color: white;
-    border-radius: 25px;
     display: flex;
-    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 5%);
     justify-content: space-between;
     margin-left: 7.5%;
     margin-right: 7.5%;
     align-items: center;
+    border-radius: 25px;
+    background: #ebecf0;
+    box-shadow:  24px 24px 39px #d1d2d6,
+             -24px -24px 39px #ffffff;
 
 }
 .logo {
