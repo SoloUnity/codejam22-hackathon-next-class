@@ -10,6 +10,12 @@
     column-gap: 5%;
     margin: 4% 7.5% 0 7.5%;
 }
+.friends-container {
+    display: flex;
+    margin: 0 7.5% 0 7.5%;
+    flex-direction: column;
+    align-items: center;
+}
 
 .button-css {
     width: 140px;
@@ -27,7 +33,6 @@
     transition: all 0.3s ease 0s;
     cursor: pointer;
     outline: none;
-    margin-right: 20px;
     }
   
 .button-css:hover {
@@ -45,4 +50,6 @@ box-shadow:  24px 24px 39px #d1d2d6,
     height: 600px;
     padding: 3%;
 }
+
+
 
