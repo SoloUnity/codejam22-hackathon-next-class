@@ -121,7 +121,7 @@ console.log(temp_ls);
       <NavBar />
 
           <div className='block-container'>
-            <div className="schedule-container">
+            <div className="schedule-container" >
               <button className="blue" onClick={LoadingData}>Load my Calendar</button>
               <FullCalendar
         plugins={[timeGridPlugin, interactionPlugin]}
@@ -140,7 +140,7 @@ console.log(temp_ls);
         eventClick={(e) => console.log(e.event.id)}
         />
             </div>
-            <div className='friends-container'>
+            <div className='friends-container' id='friend'>
             <div class="input-bar" id='input-bar-small'>
                 <input  onChange={(event) => setFriend(event.target.value)} type="text" id="Email" class="input" placeholder='Email Adress'/>
                 <box-icon name='user'></box-icon>
