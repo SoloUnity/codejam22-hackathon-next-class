@@ -45,8 +45,8 @@ const Home = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
         var myFriends = docSnap.data();
-        document.getElementById("friends").innerHTML = myFriends.friends;
-        console.log("My friends: " + myFriends.friends);
+        document.getElementById("friends").innerHTML = myFriends.friends.stringify();
+        console.log("My friends: " + typeof myFriends.friends);
       }
     });
     getDoc(doc(db, "users", user.email)).then(docSnap => {
@@ -133,6 +133,8 @@ console.log(temp_ls);
         weekends={false}
         dayHeaderFormat={{ weekday: 'short', omitCommas: true }}
         events={events}
+        eventOverlap={false}
+        slotEventOverlap={false}
         displayEventTime={false}
         scrollTime="08:00:00"
         eventColor="#667a89"
