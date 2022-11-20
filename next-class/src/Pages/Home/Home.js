@@ -56,22 +56,17 @@ const Home = () => {
         for (let i = 0; i < userClass.length; i++) {
           userClass[i] = userClass[i].split(" ");
         }
-        console.log(userClass);
 
       const today = 2 //new Date().getDay() + 1;
       let today_classes = [];
-       console.log(today);
-       console.log(today_classes);
 
       for (let i = 0; i < userClass.length; i++) {
           for (let k = 0; i < userClass.length; i++) {
             let subjectName = userClass[i][k];
             let courseSection = userClass[i][k+1];
-            console.log(subjectName);
-            console.log(courseSection);
+
           
           for (let i = 0; i < courses[subjectName][courseSection]['timeslot'].length; i++) {
-                   console.log(courses[subjectName][courseSection]['timeslot'][i]['day'], today);
                    if (courses[subjectName][courseSection]['timeslot'][i]['day'] == today){
                      today_classes.push([courses[subjectName][courseSection], i, subjectName]);
                      break
@@ -90,12 +85,16 @@ const Home = () => {
       }
     });
   console.log(today_classes);
+
+
   for (let i = 0; i < today_classes.length; i++){
     let courseName = today_classes[i][2];
-    let teacher = today_classes[i][0]['teacher'];
-    let startTime = today_classes[i][0]['timeslot'][today_classes[1]]['startTime'];
-    let endTime = today_classes[i][0]['timeslot'][today_classes[1]]['endTime'];
-    
+    let timeStart = today_classes[i][0]['timeslot'][today_classes[i][1]]['startTime'];
+    let endTime = today_classes[i][0]['timeslot'][today_classes[i][1]]['endTime'];
+    let days = []
+    for (let j = 0; j < today_classes[i][0]['timeslot'].length; i++){
+      days.append(today_classes[i][0]['timeslot'][j]['day']);
+    }}
     
   }
   
