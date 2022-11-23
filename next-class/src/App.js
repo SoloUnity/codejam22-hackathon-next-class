@@ -1,9 +1,12 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Addcourses, Home, Login, SignUp } from './Pages/index';
+import ProtectedRoute from './components/ProtectedRoute';
+import { UserAuthContextProvider } from './context/UserAuthContext';
 
 function App() {
   return (
+    <UserAuthContextProvider>
       <Router>
         <div className="App">
           <div className='Content'>
@@ -12,7 +15,9 @@ function App() {
                 <Login/>
               </Route>
               <Route exact path='/home'>
-                <Home/>
+              <ProtectedRoute>               
+               <Home/>
+              </ProtectedRoute>
               </Route>
               <Route exact path='/signup'>
                 <SignUp/>
@@ -24,6 +29,7 @@ function App() {
           </div>
         </div>
       </Router>
+    </UserAuthContextProvider>
 
   );
 }

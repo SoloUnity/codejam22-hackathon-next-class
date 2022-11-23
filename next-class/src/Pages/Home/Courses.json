@@ -370,7 +370,7 @@
     },
     "006": {
       "type": "Tut",
-      "time_IDs": [
+      "time_IDs": [ 
         "9"
       ],
       "teacher": "",
