@@ -50,9 +50,9 @@ return (
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>
-        <button onClick={register} id="btn">Register</button>
+        <button onClick={register} id="btn6">Register</button>
         <h5>Already have an account?</h5>
-        <Link className='link_button' to='/login'><button id="btn">Login</button></Link>
+        <Link className='link_button' to='/login'><button id="btn6">Login</button></Link>
     </div>
     </div>
   )

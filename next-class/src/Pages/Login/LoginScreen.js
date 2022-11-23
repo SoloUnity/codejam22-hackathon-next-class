@@ -36,7 +36,7 @@ return (
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>
-        <button onClick={LoggingIn} id="btn">Login</button>
+        <button onClick={LoggingIn} id="btn5">Login</button>
         <h5>Don't have an account? <Link className='link_button1' to='/signup'><h4>Sign up</h4></Link>
 </h5>
     </div>

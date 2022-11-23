@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(235, 236, 240);
+    background-color: rgb(36, 53, 120);
 }
 
 .input {
@@ -53,7 +53,7 @@
 }
 
 .welcome-text{
-    color:rgb(12, 64, 93)
+    color:rgb(0, 0, 0)
 }
 
 
@@ -93,17 +93,19 @@
     font-size: 12px;
 }
 
-#btn {
+#btn5 {
     width: 350px;
     border: none;
     padding: 15px;
     color: rgb(0, 0, 0);
-    background-color: #fafdff74;
+    background-color: #1500b5fe;
     font-size: 24px;
+    color: rgb(245, 245, 245);
     border-radius: 30px;
     cursor: pointer;
     margin-top: 1rem;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
 }
 
 
@@ -113,7 +115,7 @@
     text-decoration: underline;
 }
 
-#btn:hover {
+#btn5:hover {
     background-color: #6d7280;
     box-shadow: 0px 15px 20px rgba(141, 141, 141, 0.4);
     color: rgb(8, 8, 8);
