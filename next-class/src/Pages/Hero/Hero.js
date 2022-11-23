@@ -10,7 +10,7 @@ const Hero = () => {
             <div className="hero__content">
                 <div><img src={Logo} alt='reload page' className='logo1'></img></div>
                 <h1 className="hero__title">Welcome to Next Class!</h1>
-                <p className="hero__text">Next Class is a platform that allows you to sync school schedules with your friends. Our main goal is to cut on the time to plan. Next-Class is currently only for McGill students but in further updates other universities will have access.</p>
+                <p className="hero__text">Next Class is a platform that allows you to sync school schedules with your friends. Our main goal is to cut on the time to plan for students to enjoy their time together. Next-Class is currently only for McGill students but in further updates other universities will have access.</p>
                 <div className="hero__buttons">
                 <Link className="button__link" to="/login"><button className="hero__button">Start Now</button></Link>
                 </div>
