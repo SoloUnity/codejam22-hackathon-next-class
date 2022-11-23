@@ -4,6 +4,9 @@ import {auth} from '../../firebase';
 import { useState } from 'react';
 import {Link} from 'react-router-dom';
 import {useAuthState} from 'react-firebase-hooks/auth';
+import "./Addcourses.css";
+import {classes} from './Users.js';
+
 
 const db = getFirestore();
 
@@ -11,14 +14,15 @@ const Addcourses = () => {
     const[user] = useAuthState(auth);
     const [course, setCourse] = useState('');
     const [section, setSection] = useState('');
+    
+    console.log(course);
    
-
     const AddCourse = () =>{
         
     if (course !== '' && section !== ''){
         const courseRef = doc(db, "users", user?.email);
         updateDoc(courseRef, {
-            classes: arrayUnion(`${section} ${course}`),
+            classes: arrayUnion(`${course} ${section}`),
         });
         alert("Course Added!");
 
@@ -29,42 +33,41 @@ const Addcourses = () => {
 }
 
   return (
-    <div className='login-wrapper'>
-    <div id="content">
-        <h1>Add your courses</h1>
-        <form>
-            <div class="input-bar">
-                <label for="AddClass">Add a course</label>
-                <input  onChange={(event) => setSection(event.target.value)} type="text" id="section" class="input"/>
-                <box-icon name='section'></box-icon>
+    <div className='add-wrapper'>
+    <div id="add-content">
+        <div>
+            <h1>Add a Course</h1>
+            <div className='inputs'>
+            <div>
+                <input  onChange={(event) => setCourse(event.target.value)} type="text" id="course" className="input1" placeholder='Course name'>
+                </input>
+                <h6>Use correct syntax. EX:</h6>
+                <ul>
+                    {classes.filter(classes=>classes.class_name.toUpperCase().includes(course)).slice(0,3).map((classes) => (
+                        <li className='courses'>{classes.class_name}</li>
+                    ))}
+                </ul>
             </div>
-            <div class="input-bar">
-                <label for="addSection">Add your section</label>
-                <input  onChange={(event) => setCourse(event.target.value)} type="text" id="course" class="input"/>
-                <box-icon name='course'></box-icon>
+            <div className='select-wrapper'>   
+            <select value={section} onChange={(event) => setSection(event.target.value)}>
+                    <option value="" disabled selected>Select your section</option>
+                    <option>001</option>
+                    <option>002</option>
+                    <option>003</option>
+                    <option>004</option>
+                </select>
             </div>
-        </form>
-        <button onClick={AddCourse} id="btn">Add course</button>
-        <button id="btn"><Link className='link_button' to='/home'>Back to home</Link></button>
+            </div> 
+        </div>
+        <div className='Buttons'>
+            <button onClick={AddCourse} id="btn1">Add course</button>
+            <Link className='link_button1' to='/home'><button id="btn2">Back to home</button></Link>
+        </div>
+        
     </div>
     </div>
   )
 }
-const input = document.querySelectorAll('.input');
 
-function inputFocus() {
-    this.parentNode.classList.add('focus');
-}
-
-function inputBlur() {
-    if(this.value === '' || this.value === null){
-        this.parentNode.classList.remove('focus');
-    }
-}
-
-input.forEach((e) => {
-    e.addEventListener('focus', inputFocus);
-    e.addEventListener('blur', inputBlur);
-})
 
 export default Addcourses

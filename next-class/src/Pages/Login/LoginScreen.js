@@ -1,28 +1,34 @@
 import './LoginScreen.css';
 import { useState } from 'react';
-import React from 'react'
-import {auth} from '../../firebase';
 import {Link} from 'react-router-dom';
-import {signInWithEmailAndPassword} from 'firebase/auth';
+import {useUserAuth} from '../../context/UserAuthContext';
+import {Alert} from 'react-bootstrap';
 
 function Login() {
+
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const {LogedIn} = useUserAuth();
+    const [error, setError] = useState('');
 
-    const signIn = () =>{
-        signInWithEmailAndPassword (auth, email, password)
-        .then(auth=>console.log(auth))
-        .catch(error=>console.error(error))
+    const LoggingIn = async (e) =>{
+        e.preventDefault();
+        try {
+            await LogedIn(email, password);
+            window.location.replace('/home');
+        }   catch (error) {
+            setError(error.message);   
+        }
     }
-
 
 return (
     <div className='login-wrapper'>
     <div id="content">
         <h1 className='welcome-text'>Welcome to Next-Class!</h1>
+        {error && <Alert variant='danger'>{error}</Alert>}
         <form>
             <div class="input-bar">
-                <input  onChange={(event) => setEmail(event.target.value)} type="text" id="Email" class="input" placeholder='Email Adress'/>
+                <input  onChange={(event) => setEmail(event.target.value)} type="text" id="Email" class="input" placeholder='Email'/>
                 <box-icon name='user'></box-icon>
             </div>
             <div class="input-bar">
@@ -30,9 +36,9 @@ return (
                 <box-icon name='lock-alt' ></box-icon>
             </div>
         </form>
-        <button onClick={signIn} id="btn"><Link className='link_button' to='/home'>Login</Link></button>
-        <h5>Don't have an account?</h5>
-        <button id="btn"><Link className='link_button' to='/signup'>Sign Up</Link></button>
+        <button onClick={LoggingIn} id="btn">Login</button>
+        <h5>Don't have an account? <Link className='link_button1' to='/signup'><h4>Sign up</h4></Link>
+</h5>
     </div>
     </div>
   )

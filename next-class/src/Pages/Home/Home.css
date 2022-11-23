@@ -1,6 +1,6 @@
 .home-wrapper {
-    background-color: rgb(235,236,240);
-    height: 100vh;
+    background-color: rgb(248, 247, 247);
+    height: 200%;
     padding-top: 1%;
 }
   
@@ -10,15 +10,27 @@
     column-gap: 5%;
     margin: 2% 7.5% 0 7.5%;
 }
-.friends-container {
-    display: flex;
-    margin: 0 7.5% 0 7.5%;
-    flex-direction: column;
-    align-items: center;
-}
 
 .friendslist{
     margin-top:5% ;
+}
+
+.friendslist h1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    margin-bottom: 2%;
+}
+
+#friends {
+    font-size: small;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    padding-top: 5%;
+    color:rgb(72, 72, 72);
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
 }
 
 .red, .blue {
@@ -34,10 +46,13 @@
     border: none;
     border-radius: 45px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease 0s;
-    cursor: pointer;
+    transform: translateY(0.5px);
+    transition: transform 0.3s ease-in-out;    cursor: pointer;
     outline: none;
-    }
+    margin-bottom: 3%;   
+    margin-top: 3%;    
+ 
+}
 
 .blue:hover{
     background-color: #3d7af3;
@@ -51,18 +66,37 @@
     color: #fff;
     transform: translateY(-1px);
 }
-#friend{
-    height: 600px;
+
+
+.schedule-container{
+border-radius: 25px;
+background: white;
+width: 90%;
+box-shadow:  24px 24px 39px #cacacb,
+             -24px -24px 39px #ffffff;
+    height: 90%;
+    padding: 3%;
+    border-style: solid;
+    border-color: rgba(146, 144, 144, 0.323);
+    border-width: 0.5px;
 }
 
-.schedule-container, .friends-container{
-border-radius: 25px;
-background: #a6e7ff63;
-box-shadow:  24px 24px 39px #d1d2d6,
-             -24px -24px 39px #ffffff;
-    height: 580px;
-    padding: 3%;
-}
+.friends-container{
+    display: flex;
+    margin: 0 7.5% 0 7.5%;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+    margin-right: 0px;
+    background: white;
+    box-shadow:  24px 24px 39px #cacacb,
+                 -24px -24px 39px #ffffff;
+        height: 40vh;
+        padding: 3%;
+        border-style: solid;
+    border-color: rgba(146, 144, 144, 0.323);
+    border-width: 0.5px;
+    }
 
 #input-bar-small{
     width: 80%;
@@ -76,10 +110,26 @@ box-shadow:  24px 24px 39px #d1d2d6,
     position: relative;
 }
 
+input::placeholder  {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 13px;
+    color: #000;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
 
 
 .link {
     text-decoration: none;
-    font-color: black;
 }
 
+.fc .fc-button-primary    {
+    background-color: #b1d583;
+    background-image: none;
+}

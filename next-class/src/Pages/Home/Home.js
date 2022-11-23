@@ -8,7 +8,6 @@ import courses from './Courses.json';
 import FullCalendar from '@fullcalendar/react';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import interactionPlugin from '@fullcalendar/interaction';
-import { Link } from 'react-router-dom';
 
 const db = getFirestore();
 
@@ -45,7 +44,7 @@ const Home = () => {
     getDoc(doc(db, "users", user.email)).then(docSnap => {
       if (docSnap.exists()) {
         var myFriends = docSnap.data();
-        document.getElementById("friends").innerHTML = String(myFriends.friends).split(',').join('<br>');
+        document.getElementById("friends").innerHTML = String(myFriends.friends).split(',').join('<br><br>');
         console.log("My friends: " + myFriends.friends);
       }
     });
@@ -55,7 +54,7 @@ const Home = () => {
         for (let i = 0; i < userClass.length; i++) {
           userClass[i] = userClass[i].split(" ");
         }
-
+    
       const today = 2 //new Date().getDay() + 1;
       let today_classes = [];
 
@@ -66,7 +65,7 @@ const Home = () => {
 
           
           for (let i = 0; i < courses[subjectName][courseSection]['timeslot'].length; i++) {
-                   if (courses[subjectName][courseSection]['timeslot'][i]['day'] == today){
+                   if (courses[subjectName][courseSection]['timeslot'][i]['day'] === today){
                      today_classes.push([courses[subjectName][courseSection], i, subjectName]);
                      break
                    }
@@ -85,7 +84,7 @@ const Home = () => {
     });
   console.log(today_classes);
 
-setEvents()
+
 const temp_ls = [];
   for (let i = 0; i < today_classes.length; i++){
     let courseName = today_classes[i][2];
@@ -137,7 +136,7 @@ console.log(temp_ls);
         slotEventOverlap={false}
         displayEventTime={false}
         scrollTime="08:00:00"
-        eventColor="#667a89"
+        eventColor="#3d7af3"
         nowIndicator
         dateClick={(e) => console.log(e.dateStr)}
         eventClick={(e) => console.log(e.event.id)}
