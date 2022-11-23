@@ -1,4 +1,3 @@
-import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Addcourses, Home, Login, SignUp , Hero} from './Pages/index';
 import ProtectedRoute from './components/ProtectedRoute';
