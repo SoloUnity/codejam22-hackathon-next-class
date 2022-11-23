@@ -2,7 +2,7 @@
 
 .hero__wrapper {
     background-image: url(../../assets/Group\ 1.svg);
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     background-size: cover;
 }
@@ -14,7 +14,7 @@
     align-items: left;
     height: 100%;
     padding-right: 50%;
-    padding-left: 10%;
+    padding-left: 15%;
 }
 .hero__content > h1 {
     font-size: 50px;
