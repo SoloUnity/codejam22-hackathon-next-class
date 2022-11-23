@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(213, 167, 14);
+    background-color: teal;
 }
 
 #content {
@@ -80,8 +80,9 @@
     width: 350px;
     border: none;
     padding: 15px;
+    margin-top: 2%;
     color: rgb(0, 0, 0);
-    background-color: #ffaa0d;
+    background-color: #8fc8b7;
     font-size: 24px;
     border-radius: 30px;
     cursor: pointer;
