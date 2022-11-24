@@ -1,6 +1,5 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Addcourses, Home, Login, SignUp , Hero} from './Pages/index';
-import ProtectedRoute from './components/ProtectedRoute';
 import { UserAuthContextProvider } from './context/UserAuthContext';
 
 function App() {
@@ -17,9 +16,7 @@ function App() {
                 <Hero/>
               </Route>
               <Route exact path='/home'>
-              <ProtectedRoute>               
                <Home/>
-              </ProtectedRoute>
               </Route>
               <Route exact path='/signup'>
                 <SignUp/>
