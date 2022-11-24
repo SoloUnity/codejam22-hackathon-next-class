@@ -171,16 +171,17 @@ option {
 
 @media screen and (max-width: 1050px) {
     .add-wrapper {
-        width: 100vw;
+        width: 80vw;
         height: 80vh;
         display: flex;
+        padding-left: 10%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     #add-content {
-        box-shadow: 0 11px 17px 5px rgb(0 0 0 / 33%);
+        box-shadow: 0 11px 17px 5px white;
         border-radius: 50px;
         display: flex;
         height: 100%;
@@ -190,5 +191,22 @@ option {
     .inputs {
         display: flex;
         flex-direction: column;
+    }
+    select {
+        width: 250px;
+        height: 60px;
+        padding: 0.5em 1em;
+        color: rgb(0, 0, 0);
+        border-radius: 0.25em;
+        box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    }
+    .Buttons {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 0rem;
     }
 }
