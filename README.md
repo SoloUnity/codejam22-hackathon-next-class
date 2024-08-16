@@ -22,6 +22,9 @@ We developed our React.js skills and got much more familiar with database usage.
 ## What's next for NextClass
 We would love to add more features to this website, such as specifications on your friends' information, their live location (if permitted by the user), and editable widgets for helping students perform better (ex., Assignment widget). We would also like to create the mobile version of this code to make this easier to use as we often check our schedules or contact our friends from our phones.
 
+![image](https://github.com/user-attachments/assets/7b78590e-8895-411e-8e11-f0f68fff4d0b)
+
+
 
 
 
